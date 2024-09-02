@@ -4,7 +4,9 @@
 
 💞️ Open to collaboration on any programming and cybersecurity project, knowledge-sharing initiatives, and anything that fosters a secure digital environment.
 
-📫 Reach me at [ahad06074@gmail.com] or connect on LinkedIn [https://www.linkedin.com/in/abdul-ahad-988305286/]
+📫 Reach me at [ahad06074@gmail.com]
+
+💞️ Connect on LinkedIn [https://www.linkedin.com/in/abdul-ahad-988305286/]
 
 😄 Pronouns: He/Him
 
