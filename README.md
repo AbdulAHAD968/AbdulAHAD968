@@ -1,4 +1,4 @@
-# 👋 Hello, I'm @AbdulAHAD968  
+# 👋 Hello, I'm @AbdulAHAD  
 
 I'm an aspiring Cyber Security enthusiast currently honing my skills at **FAST-NUCES-ISB**.  
 
