@@ -1,4 +1,4 @@
-# 👋 Peace be upon you, I'm @AbdulAHAD  
+# 👋 Peace be upon you all, I'm @AbdulAHAD  
 
 I'm an aspiring Cyber Security enthusiast currently honing my skills at **FAST-NUCES-ISB**.  
 
