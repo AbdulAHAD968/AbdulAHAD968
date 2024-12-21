@@ -109,8 +109,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🐍 Contribution Snake Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AbdulAHAD968/AbdulAHAD968/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AbdulAHAD968/AbdulAHAD968/blob/output/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://github.com/AbdulAHAD968/AbdulAHAD968/blob/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="dist/github-snake.svg" alt="GitHub Contribution Snake">
+</p>
+
