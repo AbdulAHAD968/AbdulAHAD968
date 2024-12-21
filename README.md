@@ -2,15 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-
-<div style="background-image: url('your-background-image-url.jpg'); padding: 50px; background-size: cover; background-position: center; text-align: center; color: white; font-size: 2em; font-weight: bold;">
+<div style="background-image: url('your-background-image-url.jpg'); 
+            padding: 50px; 
+            background-size: cover; 
+            background-position: center; 
+            text-align: center; 
+            color: white; 
+            font-size: 2em; 
+            font-weight: bold;">
   <h1>👋 Peace be upon you all, I'm Abdul Ahad</h1>
   <p>I'm an aspiring <strong>Cyber Security enthusiast</strong> currently honing my skills at <strong>FAST-NUCES Islamabad</strong>.</p>
 </div>
-
 
 ---
 
