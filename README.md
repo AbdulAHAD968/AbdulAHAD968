@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 # 👋 Peace be upon you all, I'm Abdul Ahad
 
 I'm an aspiring **Cyber Security enthusiast** currently honing my skills at **FAST-NUCES Islamabad**.
@@ -6,7 +10,7 @@ I'm an aspiring **Cyber Security enthusiast** currently honing my skills at **FA
 
 ## 🔧 Tools I Have Used and Learned
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
