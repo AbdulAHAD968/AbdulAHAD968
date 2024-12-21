@@ -1,11 +1,6 @@
-**<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbdulAHAD968/AbdulAHAD968/main/.github/workflows/dffd.PNG" alt="Background Image">
 </p>
-**
 <div style="background-image: url('.github/workflows/dffd.PNG'); 
             padding: 50px; 
             background-size: cover; 
