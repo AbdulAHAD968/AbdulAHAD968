@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-# 👋 Peace be upon you all, I'm Abdul Ahad
+<div style="background-image: url('your-background-image-url.jpg'); padding: 50px; background-size: cover; background-position: center; text-align: center; color: white; font-size: 2em; font-weight: bold;">
+  <h1>👋 Peace be upon you all, I'm Abdul Ahad</h1>
+  <p>I'm an aspiring <strong>Cyber Security enthusiast</strong> currently honing my skills at <strong>FAST-NUCES Islamabad</strong>.</p>
+</div>
 
-I'm an aspiring **Cyber Security enthusiast** currently honing my skills at **FAST-NUCES Islamabad**.
 
 ---
 
