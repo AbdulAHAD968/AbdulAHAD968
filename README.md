@@ -53,10 +53,16 @@ I’m open to collaboration on:
 
 ## 💬 Let's Connect!
 
-I’m open to **collaborative projects** in cybersecurity, programming, or **knowledge-sharing** initiatives. Feel free to reach out if you’d like to discuss ideas or explore ways we can work together.
+I’m open to **collaborative projects** in **cybersecurity**, **programming**, or **knowledge-sharing** initiatives. Feel free to reach out if you’d like to discuss ideas or explore ways we can work together.
 
-- **LinkedIn**: [linkedin.com/in/abdul-ahad-988305286](https://www.linkedin.com/in/abdul-ahad-988305286)  
-- **Email**: [ahad06074@gmail.com](mailto:ahad06074@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdul-ahad-988305286" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ahad06074@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 Looking forward to connecting!
 
