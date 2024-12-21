@@ -1,54 +1,70 @@
-# 👋 Peace be upon you all, I'm @AbdulAHAD  
+# 👋 Peace be upon you all, I'm **Abdul Ahad**
 
-I'm an aspiring Cyber Security enthusiast currently honing my skills at **FAST-NUCES-ISB**.  
-
----
-
-## ⚡ Skills  
-- SQL  
-- C++  
-- Python  
-- Linux  
-- Bash  
+I am an aspiring **Cybersecurity Enthusiast** currently honing my skills at **FAST-NUCES Islamabad**. My passion lies in exploring innovative solutions to enhance cybersecurity protocols and fostering a secure digital environment.
 
 ---
 
-## 🚀 Professional Summary
+## 🛠️ **Technical Skills**
 
-Currently studying at **FAST-NUCES Islamabad**, I bring a **blend of technical skills and leadership** experience, honed through academic projects, certifications, and collaborative work. My work ethic, problem-solving abilities, and management skills make me a versatile team player and a proactive learner in fast-paced environments.
-
-- **Specializations**: Cybersecurity fundamentals, secure coding, and data protection.
-- **Interests**: Cloud Security, DevSecOps, and Cybersecurity project development.
-- **Approach**: Solution-oriented, with a commitment to enhancing cybersecurity protocols.
-
----
-
-## 💞️ Collaboration  
-I’m open to collaboration on:  
-- Any programming and cybersecurity project  
-- Knowledge-sharing initiatives  
-- Anything that fosters a secure digital environment  
+- **Programming Languages**: C++, Python, SQL, Bash
+- **Web Development**: HTML, CSS
+- **Operating Systems**: Linux
+- **Specializations**: Cybersecurity fundamentals, secure coding, data protection
 
 ---
 
-## 💬 Let's Connect!
+## 📖 **Professional Summary**
 
-I’m open to **collaborative projects** in cybersecurity, programming, or **knowledge-sharing** initiatives. Feel free to reach out if you’d like to discuss ideas or explore ways we can work together.
+I bring a blend of **technical expertise** and **leadership experience**, developed through academic projects, certifications, and collaborative efforts. My strong problem-solving abilities and proactive approach make me a valuable team player in dynamic environments.
 
-- **LinkedIn**: [linkedin.com/in/abdul-ahad-988305286](https://www.linkedin.com/in/abdul-ahad-988305286)
+### Key Highlights:
+
+- 🔒 Focused on **Cloud Security** and **DevSecOps** methodologies
+- 📚 Driven by a **solution-oriented mindset**
+- 🤝 Passionate about **collaborative learning** and **knowledge sharing**
+
+---
+
+## 🤝 **Collaboration Opportunities**
+
+I am open to collaborating on:
+
+- Programming and cybersecurity projects
+- Innovative ideas in **DevSecOps** and **Cloud Security**
+- Knowledge-sharing initiatives to enhance cybersecurity practices
+
+---
+
+## 🌐 **Let's Connect**
+
+Feel free to reach out for collaboration or discussions on shared interests:
+
+- **LinkedIn**: [Abdul Ahad](https://www.linkedin.com/in/abdul-ahad-988305286)
 - **Email**: [ahad06074@gmail.com](mailto:ahad06074@gmail.com)
 
-Looking forward to connecting!
+---
+
+## 😄 **Pronouns**
+
+He/Him
 
 ---
 
-## 😄 Pronouns  
-He/Him  
+## ⚡ **Fun Fact**
+
+I believe that curiosity and hands-on experiences are the keys to mastering the ever-evolving landscape of cybersecurity.
 
 ---
 
-## ⚡ Fun Fact  
-I believe in the power of learning through hands-on experiences and continuous curiosity in the ever-evolving landscape of cybersecurity.  
+## 📊 **GitHub Stats**
+
+![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulAHAD968&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAHAD968&layout=compact&theme=radical)
+
+---
+
+> “Learning never exhausts the mind.” – Leonardo da Vinci
 
 <!---  
 AbdulAHAD968/AbdulAHAD968 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
