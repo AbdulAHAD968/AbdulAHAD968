@@ -72,12 +72,25 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
-![Abdul Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulAHAD968&show_icons=true&theme=dark)
+![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulAHAD968&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAHAD968&layout=compact&theme=radical)
 
 ---
 
+> “Learning never exhausts the mind.” – Leonardo da Vinci
+
+<!---  
+AbdulAHAD968/AbdulAHAD968 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+You can click the Preview link to take a look at your changes.  
+--->
+
 ## 🐍 Contribution Snake Animation
 
-![Snake animation](https://github.com/AbdulAHAD968/AbdulAHAD968/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AbdulAHAD968/AbdulAHAD968/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AbdulAHAD968/AbdulAHAD968/blob/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://github.com/AbdulAHAD968/AbdulAHAD968/blob/output/github-snake.svg" />
+</picture>
