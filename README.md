@@ -20,13 +20,15 @@ I'm an aspiring **Cyber Security enthusiast** currently honing my skills at **FA
 
 ## ⚡ Skills
 
-- SQL  
-- C++  
-- Python  
-- Linux  
-- Bash  
-- HTML  
-- CSS  
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+</p>
 
 ---
 
