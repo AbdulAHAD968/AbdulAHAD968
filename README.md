@@ -107,9 +107,3 @@ AbdulAHAD968/AbdulAHAD968 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.  
 --->
 
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbdulAHAD968/AbdulAHAD968/main/dist/github-snake.svg" alt="GitHub Contribution Snake">
-</p>
-
-
