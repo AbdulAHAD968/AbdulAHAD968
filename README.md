@@ -72,11 +72,12 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulAHAD968&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAHAD968&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAHAD968&show_icons=true&theme=radical" alt="Abdul's GitHub Stats" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAHAD968&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;"/>
+</div>
 
 ---
 
