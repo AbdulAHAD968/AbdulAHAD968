@@ -1,72 +1,83 @@
-# 👋 Peace be upon you all, I'm **Abdul Ahad**
+# 👋 Peace be upon you all, I'm Abdul Ahad
 
-I am an aspiring **Cybersecurity Enthusiast** currently honing my skills at **FAST-NUCES Islamabad**. My passion lies in exploring innovative solutions to enhance cybersecurity protocols and fostering a secure digital environment.
-
----
-
-## 🛠️ **Technical Skills**
-
-- **Programming Languages**: C++, Python, SQL, Bash
-- **Web Development**: HTML, CSS
-- **Operating Systems**: Linux
-- **Specializations**: Cybersecurity fundamentals, secure coding, data protection
+I'm an aspiring **Cyber Security enthusiast** currently honing my skills at **FAST-NUCES Islamabad**.
 
 ---
 
-## 📖 **Professional Summary**
+## 🔧 Tools I Have Used and Learned
 
-I bring a blend of **technical expertise** and **leadership experience**, developed through academic projects, certifications, and collaborative efforts. My strong problem-solving abilities and proactive approach make me a valuable team player in dynamic environments.
-
-### Key Highlights:
-
-- 🔒 Focused on **Cloud Security** and **DevSecOps** methodologies
-- 📚 Driven by a **solution-oriented mindset**
-- 🤝 Passionate about **collaborative learning** and **knowledge sharing**
-
----
-
-## 🤝 **Collaboration Opportunities**
-
-I am open to collaborating on:
-
-- Programming and cybersecurity projects
-- Innovative ideas in **DevSecOps** and **Cloud Security**
-- Knowledge-sharing initiatives to enhance cybersecurity practices
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
 ---
 
-## 🌐 **Let's Connect**
+## ⚡ Skills
 
-Feel free to reach out for collaboration or discussions on shared interests:
+- SQL  
+- C++  
+- Python  
+- Linux  
+- Bash  
+- HTML  
+- CSS  
 
-- **LinkedIn**: [Abdul Ahad](https://www.linkedin.com/in/abdul-ahad-988305286)
+---
+
+## 🚀 Professional Summary
+
+Currently studying at **FAST-NUCES Islamabad**, I bring a **blend of technical skills and leadership** experience, honed through academic projects, certifications, and collaborative work. My work ethic, problem-solving abilities, and management skills make me a versatile team player and a proactive learner in fast-paced environments.
+
+- **Specializations**: Cybersecurity fundamentals, secure coding, and data protection.
+- **Interests**: Cloud Security, DevSecOps, and Cybersecurity project development.
+- **Approach**: Solution-oriented, with a commitment to enhancing cybersecurity protocols.
+
+---
+
+## 💞️ Collaboration  
+
+I’m open to collaboration on:  
+- Any programming and cybersecurity project  
+- Knowledge-sharing initiatives  
+- Anything that fosters a secure digital environment  
+
+---
+
+## 💬 Let's Connect!
+
+I’m open to **collaborative projects** in cybersecurity, programming, or **knowledge-sharing** initiatives. Feel free to reach out if you’d like to discuss ideas or explore ways we can work together.
+
+- **LinkedIn**: [linkedin.com/in/abdul-ahad-988305286](https://www.linkedin.com/in/abdul-ahad-988305286)  
 - **Email**: [ahad06074@gmail.com](mailto:ahad06074@gmail.com)
 
----
-
-## 😄 **Pronouns**
-
-He/Him
+Looking forward to connecting!
 
 ---
 
-## ⚡ **Fun Fact**
+## 😄 Pronouns
 
-I believe that curiosity and hands-on experiences are the keys to mastering the ever-evolving landscape of cybersecurity.
-
----
-
-## 📊 **GitHub Stats**
-
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulAHAD968&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAHAD968&layout=compact&theme=radical)
+He/Him  
 
 ---
 
-> “Learning never exhausts the mind.” – Leonardo da Vinci
+## ⚡ Fun Fact  
 
-<!---  
-AbdulAHAD968/AbdulAHAD968 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
-You can click the Preview link to take a look at your changes.  
---->
+I believe in the power of learning through hands-on experiences and continuous curiosity in the ever-evolving landscape of cybersecurity.  
+
+---
+
+## 📊 GitHub Stats
+
+![Abdul Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulAHAD968&show_icons=true&theme=dark)
+
+---
+
+## 🐍 Contribution Snake Animation
+
+![Snake animation](https://github.com/AbdulAHAD968/AbdulAHAD968/blob/output/github-contribution-grid-snake.svg)
