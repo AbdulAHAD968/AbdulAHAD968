@@ -20,7 +20,7 @@ I'm an aspiring **Cyber Security enthusiast** currently honing my skills at **FA
 
 ## ⚡ Skills
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -55,7 +55,7 @@ I’m open to collaboration on:
 
 I’m open to **collaborative projects** in **cybersecurity**, **programming**, or **knowledge-sharing** initiatives. Feel free to reach out if you’d like to discuss ideas or explore ways we can work together.
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/abdul-ahad-988305286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
