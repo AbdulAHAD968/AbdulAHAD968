@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbdulAHAD968/AbdulAHAD968/main/.github/workflows/dffd.PNG" alt="Background Image">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2871707" style='border:none;'></iframe>
 </p>
 <div style="background-image: url('.github/workflows/dffd.PNG'); 
             padding: 50px; 
@@ -40,6 +39,16 @@
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+</p>
+
+---
+
+## 🏆 TryHackMe Profile
+
+<p align="center">
+  <a href="https://tryhackme.com/p/your-username">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/your-username.png" alt="TryHackMe Badge" />
+  </a>
 </p>
 
 ---
