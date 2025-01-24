@@ -2,7 +2,10 @@
   <img src="https://raw.githubusercontent.com/AbdulAHAD968/AbdulAHAD968/main/.github/workflows/dffd.PNG" alt="Background Image">
 </p>
 
-  <img align="center" src="cat.gif" alt="TypingCat">
+<p align="center">
+  <img src="cat.gif" alt="TypingCat">
+</p>
+
   
   <h1 class="text-orange" aria-label="Blessings upon you all. I am Abdul Ahad.">
       👨‍🎓 Blessings upon you all. I am Abdul Ahad. ✨🐱‍💻✨
