@@ -1,22 +1,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbdulAHAD968/AbdulAHAD968/main/.github/workflows/dffd.PNG" alt="Background Image">
 </p>
-<div style="background-image: url('.github/workflows/dffd.PNG'); 
-            padding: 50px; 
-            background-size: cover; 
-            background-position: center; 
-            text-align: center; 
-            color: white; 
-            font-size: 2em; 
-            font-weight: bold;">
 
   <img align="center" src="cat.gif" alt="TypingCat">
   
   <h1 class="text-orange" aria-label="Blessings upon you all. I am Abdul Ahad.">
       👨‍🎓 Blessings upon you all. I am Abdul Ahad. ✨🐱‍💻✨
   </h1>
-
-</div>
 
 ---
 
