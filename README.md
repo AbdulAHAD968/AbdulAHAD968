@@ -9,8 +9,10 @@
             color: white; 
             font-size: 2em; 
             font-weight: bold;">
-  <h1>👋 Peace be upon you all, I'm Abdul Ahad</h1>
-  <p>I'm an aspiring <strong>Cyber Security enthusiast</strong> currently honing my skills at <strong>FAST-NUCES Islamabad</strong>.</p>
+  <p align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Blessings+Upon+You+All👋!!;I'm+a+Cybersecurity+Enthusiast!;I'm+a+Web+Developer!;I'm+a+Problem+Solver!;I'm+a+Prompt+Engineer!;I'm+a+Tech+Learner!&font=Fira%20Code&center=true&width=480&height=50" />
+      <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="70"/ loading="lazy" />
+  </p>
 </div>
 
 ---
