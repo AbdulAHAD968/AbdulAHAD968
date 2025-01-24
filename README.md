@@ -13,7 +13,7 @@
       👨‍🎓 Blessings upon you all. I am Abdul Ahad. ✨🐱‍💻✨
   </h1>
 
-  <img src="cat.gif" alt="TypingCat">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2d1OXFkcHNtaHk2N2NuejQ3dGIxNmh5cjRoYWo1cmVrajF2NWI5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" alt="TypingCat">
 
 </div>
 
