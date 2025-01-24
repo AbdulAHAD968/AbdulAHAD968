@@ -9,11 +9,12 @@
             color: white; 
             font-size: 2em; 
             font-weight: bold;">
+
+  <img align="center" src="cat.gif" alt="TypingCat">
+  
   <h1 class="text-orange" aria-label="Blessings upon you all. I am Abdul Ahad.">
       👨‍🎓 Blessings upon you all. I am Abdul Ahad. ✨🐱‍💻✨
   </h1>
-
-  <img src="cat.gif" alt="TypingCat">
 
 </div>
 
