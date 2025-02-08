@@ -115,7 +115,13 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ---
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="83d1ca2c-b63e-4566-a7bf-2f682e3b58db" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+---
+
 > “Learning never exhausts the mind.” – Leonardo da Vinci
+
+---
 
 <!---  
 AbdulAHAD968/AbdulAHAD968 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
