@@ -117,9 +117,17 @@ I believe in the power of learning through hands-on experiences and continuous c
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulAHAD968&show_icons=true&theme=radical" alt="Abdul's GitHub Stats" style="width: 48%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAHAD968&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;"/>
   <img src="https://komarev.com/ghpvc/?username=AbdulAHAD968&color=brightgreen" alt="Profile Views" />
-  <img src="https://github.com/AbdulAHAD968/github-metrics/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-  <img src="https://github.com/AbdulAHAD968/github-achievements/blob/main/achievements.svg" alt="GitHub Achievements" />
+</div>
+
+---
+
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAHAD968&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+<div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAHAD968&theme=radical" alt="GitHub Contribution Graph" />
 </div>
 
