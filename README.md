@@ -125,10 +125,10 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ---
 
-## 🔊 GitHub Streak
+## 🔥 GitHub Streak Stats
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAHAD968&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAHAD968&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
