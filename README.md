@@ -65,10 +65,11 @@
 
 ## 🚀 Professional Summary
 
-Currently studying at **FAST-NUCES Islamabad**, I bring a **blend of technical skills and leadership** experience, honed through academic projects, certifications, and collaborative work. My work ethic, problem-solving abilities, and management skills make me a versatile team player and a proactive learner in fast-paced environments.
+I am a student pursuing my Bachelor's degree at **NUCES-ISB**. I am a self-learner with a strong passion for exploring and mastering new programming languages, technologies, frameworks, products, and devices.
+Currently, I am working on **Web Development** while also learning **Data Structures and Algorithms (DSA)** to enhance my problem-solving skills.
 
 - **Specializations**: Cybersecurity fundamentals, secure coding, and data protection.
-- **Interests**: Cloud Security, DevSecOps, and Cybersecurity project development.
+- **Interests**: Cloud Computing, DevSecOps, and AI project development.
 - **Approach**: Solution-oriented, with a commitment to enhancing cybersecurity protocols.
 
 ---
