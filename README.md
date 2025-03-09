@@ -134,6 +134,18 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ---
 
+## 🎁 Contribution Graph
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAHAD968&theme=radical" alt="GitHub Contribution Graph" />
+</div>
+
+---
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
 ## 👓 Profile Views
 
 <div>
@@ -142,15 +154,13 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ---
 
-## 🎁 Contribution Graph
-
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAHAD968&theme=radical" alt="GitHub Contribution Graph" />
-</div>
+> **"Learning never exhausts the mind.” – Leonardo da Vinci"**
 
 ---
 
-> “Learning never exhausts the mind.” – Leonardo da Vinci
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 ---
 
