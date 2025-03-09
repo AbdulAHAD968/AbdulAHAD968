@@ -155,9 +155,6 @@ I believe in the power of learning through hands-on experiences and continuous c
 ---
 
 > **"Learning never exhausts the mind.” – Leonardo da Vinci"**
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
