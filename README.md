@@ -8,7 +8,7 @@
 <!-- </p> -->
 
   
-  <h1 class="text-orange" aria-label="Blessings upon you all. I am Abdul Ahad.">
+  <h1 align="center" class="text-orange" aria-label="Blessings upon you all. I am Abdul Ahad.">
       👨‍🎓 Blessings upon you all. I am Abdul Ahad. ✨🐱‍💻✨
   </h1>
 
