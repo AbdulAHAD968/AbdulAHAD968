@@ -154,7 +154,7 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=300&section=header&text=یہ%20بندگی%20خدائی،%20وہ%20بندگی%20گدائی%20|%20یا%20بندۂ%20خدا%20بن%20یا%20بندۂ%20زمانہ%20|%20One%20servitude%20leads%20to%20divinity,%20the%20other%20to%20begging,%20Be%20a%20servant%20of%20God,%20or%20a%20slave%20of%20time!&fontSize=40&animation=fadeIn&fontColor=FFFFFF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=300&section=header&text=یہ%20بندگی%20خدائی،%20وہ%20بندگی%20گدائی%0Aیا%20بندۂ%20خدا%20بن%20یا%20بندۂ%20زمانہ%0A%0AOne%20servitude%20leads%20to%20divinity,%20the%20other%20to%20begging,%0ABe%20a%20servant%20of%20God,%20or%20a%20slave%20of%20time!&fontSize=40&animation=fadeIn&fontColor=FFFFFF" />
 
 
 <p align="center">
