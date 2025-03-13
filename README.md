@@ -62,8 +62,6 @@
   </a>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/AbdulAHAD968.svg)](https://user-badge.committers.top/pakistan/AbdulAHAD968)
-
 ---
 
 ## 🚀 Professional Summary
@@ -152,7 +150,8 @@ I believe in the power of learning through hands-on experiences and continuous c
 ## 👓 Profile Views
 
 <div>
-  <img src="https://komarev.com/ghpvc/?username=AbdulAHAD968&color=brightgreen" alt="Profile Views" style="width: 78%;"/>
+  <img src="https://komarev.com/ghpvc/?username=AbdulAHAD968&color=brightgreen" alt="Profile Views" style="width: 50%;"/>
+  [![committers.top badge](https://user-badge.committers.top/pakistan/AbdulAHAD968.svg)](https://user-badge.committers.top/pakistan/AbdulAHAD968)
 </div>
 
 ---
