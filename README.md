@@ -154,7 +154,12 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=300&section=header&text=(If%20the%20storm%20of%20longing%20ceases,%20I%20will%20no%20longer%20exist,%0A%0AFor%20my%20very%20existence%20is%20this%20restless%20longing!)%0A%0A—%20Allama%20Iqbal&fontSize=40&animation=fadeIn&fontColor=FFFFFF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=200&section=header&text=If%20the%20storm%20of%20longing%20ceases,%20I%20will%20no%20longer%20exist&fontSize=40&animation=fadeIn&fontColor=FFFFFF" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=200&section=header&text=For%20my%20very%20existence%20is%20this%20restless%20longing!&fontSize=40&animation=fadeIn&fontColor=FFFFFF" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=100&section=header&text=—%20Allama%20Iqbal&fontSize=30&animation=fadeIn&fontColor=FFFFFF" />
+
 
 
 
