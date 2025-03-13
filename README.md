@@ -151,7 +151,9 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=AbdulAHAD968&color=brightgreen" alt="Profile Views" style="width: 50%;"/>
-  <p> [![committers.top badge](https://user-badge.committers.top/pakistan/AbdulAHAD968.svg)](https://user-badge.committers.top/pakistan/AbdulAHAD968) </p>
+  <p>
+    [![committers.top badge](https://user-badge.committers.top/pakistan/AbdulAHAD968.svg)](https://user-badge.committers.top/pakistan/AbdulAHAD968)
+  </p>
 </div>
 
 ---
