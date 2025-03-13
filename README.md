@@ -1,5 +1,4 @@
 <p align="center">
-  <!-- Dynamic Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=300&section=header&text=Abdul%20Ahad&desc=AI%20and%20Cyber%20Enthusiast%20|%20Web%20Developer&fontSize=85&animation=fadeIn&fontColor=FFFFFF&descSize=22&fontAlignY=35&descAlignY=55" />
 </p>
 
@@ -152,11 +151,11 @@ I believe in the power of learning through hands-on experiences and continuous c
 <div>
   <img src="https://komarev.com/ghpvc/?username=AbdulAHAD968&color=brightgreen" alt="Profile Views" style="width: 50%;"/>
 </div>
-  [![committers.top badge](https://user-badge.committers.top/pakistan/AbdulAHAD968.svg)](https://user-badge.committers.top/pakistan/AbdulAHAD968)
 
 ---
 
-> **{ Learning never exhausts the mind. } – "Leonardo da Vinci"**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=300&section=header&text=یہ%20بندگی%20خدائی،%20وہ%20بندگی%20گدائی&desc=یا%20بندۂ%20خدا%20بن%20یا%20بندۂ%20زمانہ%20|%20One%20servitude%20leads%20to%20divinity,%20the%20other%20to%20begging,%20Be%20a%20servant%20of%20God,%20or%20a%20slave%20of%20time!&fontSize=40&animation=fadeIn&fontColor=FFFFFF&descSize=22&fontAlignY=35&descAlignY=55" />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
