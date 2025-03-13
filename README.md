@@ -154,7 +154,10 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=270&section=header&text=Allama%20Iqbal&desc={If%20the%20storm%20of%20longing%20ceases,%20I%20will%20no%20longer%20exist,%0A%0AFor%20my%20very%20existence%20is%20this%20restless%20longing!}&fontSize=85&animation=fadeIn&fontColor=FFFFFF&descSize=15&fontAlignY=15" />
+> { If the strom of longing ceases, I will no longer exist.
+>   For my very exixtance is this restless longing!! }
+>                                  ____ Allama Iqbal
+
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
@@ -164,6 +167,7 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 <!---  
 AbdulAHAD968/AbdulAHAD968 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
-You can click the Preview link to take a look at your changes.  
+You can click the Preview link to take a look at your changes. 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=270&section=header&text=Allama%20Iqbal&desc={If%20the%20storm%20of%20longing%20ceases,%20I%20will%20no%20longer%20exist,%0A%0AFor%20my%20very%20existence%20is%20this%20restless%20longing!}&fontSize=85&animation=fadeIn&fontColor=FFFFFF&descSize=15&fontAlignY=15" />
 --->
 
