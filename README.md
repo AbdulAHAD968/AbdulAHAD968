@@ -2,9 +2,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=300&section=header&text=Abdul%20Ahad&desc=AI%20and%20Cyber%20Enthusiast%20|%20Web%20Developer&fontSize=85&animation=fadeIn&fontColor=FFFFFF&descSize=22&fontAlignY=35&descAlignY=55" />
 </p>
 
-<!-- <p align="center"> -->
-<!--   <img src="cat.gif" alt="TypingCat"> -->
-<!-- </p> -->
+<p align="center">
+  <img src="cat.gif" alt="TypingCat">
+</p>
 
   
   <h1 align="center" class="text-orange" aria-label="Blessings upon you all. I am Abdul Ahad.">
