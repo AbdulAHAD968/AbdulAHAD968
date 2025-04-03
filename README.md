@@ -63,24 +63,25 @@
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 Professional Summary  
+**2nd-year Cyber Security student at NUCES-ISB** – building web apps, breaking them, then fixing them properly. More of a "code first, ask questions later" learner. Grinding DSA to stay sharp, but care more about **building real things** than just solving puzzles.  
 
-3rd-year CY student at NUCES-ISB, building things for the web while grinding through DSA to level up my problem-solving. Self-taught and hands-on—I’d rather hack together a project than overthink theory.
-**Focus Areas:**
-- Web Dev: React, Node.js, and the usual frontend/backend stack.
-- Security: Obsessed with secure coding and shutting down vulnerabilities before they blow up.
--Cloud & DevSecOps: Learning how to build stuff that doesn’t break (or get hacked).
-**End Goal:**
-Build things that work, stay alive in production, and don’t leak data. Open to collabs—especially if you’re into startups, security, or just making tech less brittle.
+**Where I Focus:**  
+- **Web Dev:** React + Node.js stack (because everything needs a frontend, even security tools)  
+- **Security:** Secure coding evangelist – vuln prevention > damage control  
+- **Cloud/DevSecOps:** Making sure deployments don't mean "open season for hackers"  
+
+**Endgame:** Build **functional, resilient tech** that doesn't embarrass itself in production  
 
 ---
 
-## 💞️ Collaboration  
+## 🤝 Collaboration  
+**Let's work together if you're into:**  
+- **Building (or securing)** web apps, tools, or startup ideas  
+- **Teaching/learning** – especially security, ethical hacking, or full-stack dev  
+- **Making tech safer** – from secure code to spreading infosec awareness  
 
-I’m open to collaboration on:  
-- Any programming and cybersecurity project  
-- Knowledge-sharing initiatives  
-- Anything that fosters a secure digital environment  
+*(No ego, just execution.)*
 
 ---
 
