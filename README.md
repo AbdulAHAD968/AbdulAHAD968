@@ -65,12 +65,13 @@
 
 ## 🚀 Professional Summary
 
-I am a student pursuing my Bachelor's degree at **NUCES-ISB**. I am a self-learner with a strong passion for exploring and mastering new programming languages, technologies, frameworks, products, and devices.
-Currently, I am working on **Web Development** while also learning **Data Structures and Algorithms (DSA)** to enhance my problem-solving skills.
-
-- **Specializations**: Cybersecurity fundamentals, secure coding, and data protection.
-- **Interests**: Cloud Computing, DevSecOps, and AI project development.
-- **Approach**: Solution-oriented, with a commitment to enhancing cybersecurity protocols.
+3rd-year CY student at NUCES-ISB, building things for the web while grinding through DSA to level up my problem-solving. Self-taught and hands-on—I’d rather hack together a project than overthink theory.
+**Focus Areas:**
+- Web Dev: React, Node.js, and the usual frontend/backend stack.
+- Security: Obsessed with secure coding and shutting down vulnerabilities before they blow up.
+-Cloud & DevSecOps: Learning how to build stuff that doesn’t break (or get hacked).
+**End Goal:**
+Build things that work, stay alive in production, and don’t leak data. Open to collabs—especially if you’re into startups, security, or just making tech less brittle.
 
 ---
 
