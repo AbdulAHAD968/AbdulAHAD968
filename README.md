@@ -3,7 +3,7 @@
 </p>
 
 <!-- <p align="center"> -->
-<!--   <img src="cat.gif" alt="TypingCat"> -->
+<!--   <img src="cat.gif" alt="TypingCat"> mad man lives here -->
 <!-- </p> -->
 
   
