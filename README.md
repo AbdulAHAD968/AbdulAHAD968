@@ -156,10 +156,11 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ---
 
-If the storm of longing ceases, I will no longer exist.  
-For my very existence is this restless longing!!  
-
-> — Allama Iqbal
+<div style="border: 1px solid #ccc; padding: 1em; border-radius: 10px; background: #f9f9f9; font-style: italic;">
+  <p>“If the storm of longing ceases, I will no longer exist.<br>
+  For my very existence is this restless longing!!”</p>
+  <p style="text-align: right; font-weight: bold;">— Allama Iqbal</p>
+</div>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
