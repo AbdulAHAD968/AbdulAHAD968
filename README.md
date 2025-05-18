@@ -116,14 +116,15 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-around;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulAHAD968&show_icons=true&theme=radical" alt="Abdul's GitHub Stats" style="width: 68%;"/>
 </div>
 
 ---
 
+## 🎶 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAHAD968&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAHAD968&layout=compact&theme=radical" alt="Top Languages" style="width: 58%;"/>
 </div>
 
 ---
@@ -131,7 +132,7 @@ I believe in the power of learning through hands-on experiences and continuous c
 ## 🔊 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAHAD968&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAHAD968&theme=radical" alt="GitHub Streak" style="width: 58%;" />
 </div>
 
 ---
