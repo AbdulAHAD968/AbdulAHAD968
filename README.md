@@ -156,11 +156,12 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ---
 
-<div style="border: 1px solid #ccc; padding: 1em; border-radius: 10px; background: #f9f9f9; font-style: italic;">
-  <p>“If the storm of longing ceases, I will no longer exist.<br>
-  For my very existence is this restless longing!!”</p>
+<div style="border-left: 4px solid #58a6ff; padding-left: 1em; color: #c9d1d9; background-color: #161b22; padding: 1em; border-radius: 10px;">
+  <p><em>“If the storm of longing ceases, I will no longer exist.<br>
+  For my very existence is this restless longing!!”</em></p>
   <p style="text-align: right; font-weight: bold;">— Allama Iqbal</p>
 </div>
+
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
