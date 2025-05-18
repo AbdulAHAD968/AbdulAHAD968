@@ -122,7 +122,7 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ---
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAHAD968&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;"/>
 </div>
 
@@ -130,7 +130,7 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ## 🔊 GitHub Streak
 
-<div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAHAD968&theme=radical" alt="GitHub Streak" />
 </div>
 
@@ -138,7 +138,7 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 ## 🎁 Contribution Graph
 
-<div>
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAHAD968&theme=radical" alt="GitHub Contribution Graph" />
 </div>
 
