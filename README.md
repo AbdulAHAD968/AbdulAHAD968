@@ -165,7 +165,7 @@ I believe in the power of learning through hands-on experiences and continuous c
 
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
 </p>
 
 ---
