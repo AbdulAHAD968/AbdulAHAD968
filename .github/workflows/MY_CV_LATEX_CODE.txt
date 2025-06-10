@@ -1,0 +1,189 @@
+\documentclass[]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Abdul}{Ahad}{ 
+\href{https://www.linkedin.com/in/abdulahad-zarinc/}{Linked-in | abdulahad-zarinc}\\
+\href{mailto:ahad06074@gmail.com}{ahad06074@gmail.com} | +92 303 7819110 | \href{https://github.com/AbdulAHAD968}{GitHub | AbdulAHAD968 }
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PROFESSIONAL SUMMARY
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Professional Summary}
+\textbf{Cyber Security student and Web Developer with 1+ year of experience building scalable tools and RESTful APIs. Skilled in React.js, Node.js, Git, Linux, and DSA. Delivered 5+ real-world projects, contributed to Pakistan’s top 80 GitHub committers, and assisted in AI model training during a research internship. Looking for an opportunity to apply my expertise.}
+\sectionsep
+
+\section{Career Objectives}
+\textbf{Eager to gain hands-on experience in software development and security through a role where I can apply my technical skills, learn from real-world challenges, and grow into a well-rounded engineer.}
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Education} 
+
+\subsection{FAST National University}
+\descript{Bachelors In Cyber Security}
+\location{2023-2027 | Islamabad, Pakistan}
+\location{ Cum. GPA: 3.59 / 4.0}
+\sectionsep
+
+\subsection{Punjab College}
+\descript{Pre Engineering}
+\location{2020-2022 | AhmedPur, Pakistan} 
+\location{Grade: 88\%}  
+\sectionsep
+
+\subsection{FG Abbas Public School}
+\descript{Matriculation}
+\location{2010-2020 | AhmedPur, Pakistan}
+\location{Grade: 93.1\%} 
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Skills}
+
+\subsection{Programming}
+
+\location{Languages:}  
+\textbullet{} \textbf{Advanced: C++} \\ 
+\textbullet{} \textbf{Intermediate: Python, JavaScript, SQL} \\
+\textbullet{} \textbf{Novice: Bash} \\
+
+\location{Tools:}
+\textbullet{} \textbf{Git} \textbullet{} \textbf{Linux} \textbullet{} \textbf{Windows} \textbullet{} \textbf{GitHub} \\
+
+\location{Frameworks \& Libraries:}
+\textbullet{} \textbf{React.js} \textbullet{} \textbf{Express.js} \\
+
+\location{Technologies:}
+\textbullet{} \textbf{CSS} \textbullet{} \textbf{HTML} \textbullet{} \textbf{MongoDB} \textbullet{} \textbf{Three.js} \\
+\sectionsep  
+
+\subsection{Others}  
+\textbullet{} \textbf{Team Leadership} \textbullet{} \textbf{Book Reading} \textbullet{} \textbf{Public Speaking}  \textbullet{} \textbf{Hiking}
+
+\sectionsep
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+
+\runsubsection{Chrio}
+\descript{| Research and Development Intern}
+\location{May 2025 – Present | Remote, Islamabad, Pakistan}
+\vspace{0.69em}
+\begin{tightemize}
+  \item \textbf{Preprocessed raw datasets and fine-tuned machine learning models to align with project objectives, increasing training accuracy by 18\%.}
+  \item \textbf{Collaborated on experimental feature rollouts by testing prototypes and suggesting optimizations in model training loops.}
+\end{tightemize}
+
+\vspace{0.39em}
+\runsubsection{FAST-NUCES, Islamabad Campus}  
+\descript{| Lab Demonstrator – Digital Logic Design}  
+\location{Aug 2024 – Present | On-campus, Islamabad, Pakistan}  
+\begin{tightemize}  
+  \item \textbf{Led weekly lab sessions for 100+ undergrads, covering logic gates, combinational circuits, and sequential designs.}
+  \item \textbf{Boosted student lab performance by 25\% via one-on-one technical support and troubleshooting digital simulations.}
+\end{tightemize}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     RESEARCH
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Projects}
+
+\runsubsection{QUENCH-THIRST}  
+\descript{| MERN Stack (MongoDB, Express, React, Node.js)}  
+\location{2025 | GitHub: \href{https://github.com/AbdulAHAD968/QUENCH-THIRST}{AbdulAHAD968}}  
+\begin{tightemize}
+  \item \textbf{Developed a role-based water delivery platform with real-time order tracking, dashboards, and secure login.}
+  \item \textbf{Built RESTful APIs (GET, POST, PUT, DELETE) and optimized queries, improving response time by 35\%.}
+\end{tightemize}
+
+\sectionsep
+
+\runsubsection{FIN TRACK}  
+\descript{| JavaScript, React, Node.js, PowerShell}  
+\location{2025 | GitHub: \href{https://github.com/AbdulAHAD968/EXPENSE-TRACKER}{EXPENSE-TRACKER}}  
+\begin{tightemize}
+  \item \textbf{Created a desktop expense tracker with 9+ modules (budgeting, reports, auth, and settings).}
+  \item \textbf{PowerShell script auto-generates a desktop icon; achieved 90\%+ responsiveness across screen sizes.}
+\end{tightemize}
+
+\sectionsep
+
+\runsubsection{FILE-MORPH}  
+\descript{| Node.js, Tesseract, Vue, React}  
+\location{2025 | GitHub: \href{https://github.com/AbdulAHAD968/FILE-MORPH}{FILE-MORPH} | Live: \href{https://file-morph-six.vercel.app/}{FILE-MORPH Website} }  
+\begin{tightemize}
+  \item \textbf{Built a file converter with OCR text extraction  supporting 30+ conversions per session and 7+ languages.}
+  \item \textbf{Integrated Tesseract for 90\%+ OCR accuracy; dual front-ends (Vue + React) for wide compatibility.}
+\end{tightemize}
+
+\sectionsep
+
+\runsubsection{DUA-VAULT}  
+\descript{| JavaScript, HTML, CSS}  
+\location{2025 | GitHub: \href{https://github.com/AbdulAHAD968/Masnoon-Dua}{Dua Vault} | Live: \href{https://abdulahad968.github.io/Masnoon-Dua/}{Dua Vault Website}}  
+\begin{tightemize}
+  \item \textbf{Designed a prayer app used by 115+ users; optimized for low-bandwidth and mobile devices.}
+  \item \textbf{Scored 100\% on Lighthouse for Best Practices, accessibility, and SEO and 91\% on Performance; built with clean UI for ease-of-use.}
+\end{tightemize}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Awards} 
+\begin{tabular}{rll}
+\textbf{2025}	     & \textbf{Silver Medal}  & \textbf{FAST NU ISLAMABAD}\\
+\textbf{2025}     & \textbf{Dean's List-2x} & \textbf{FAST NU ISLAMABAD}  \\
+\textbf{2024}	     & \textbf{Gold Medal}  & \textbf{FAST NU ISLAMABAD}\\
+\textbf{2024}     & \textbf{1}\textsuperscript{st}/\textbf{200} & \textbf{FPSC - FAST Problem Solving Challenge} \\
+\textbf{2024}     & \textbf{National} & \textbf{Pakistan Cyber Security Challenge (PCC) 2024 Finalist} \\
+\end{tabular}
+\sectionsep
+
+
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
