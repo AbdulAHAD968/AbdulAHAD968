@@ -116,7 +116,7 @@
 \vspace{0.39em}
 \runsubsection{FAST-NUCES, Islamabad Campus}  
 \descript{| Lab Demonstrator – Digital Logic Design}  
-\location{Aug 2024 – Present | On-campus, Islamabad, Pakistan}  
+\location{Aug 2024 – June 2025 | On-campus, Islamabad, Pakistan}  
 \begin{tightemize}  
   \item \textbf{Led weekly lab sessions for 100+ undergrads, covering logic gates, combinational circuits, and sequential designs.}
   \item \textbf{Boosted student lab performance by 25\% via one-on-one technical support and troubleshooting digital simulations.}
