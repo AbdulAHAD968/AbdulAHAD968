@@ -54,7 +54,7 @@
       <td>1</td>
       <td>LOCAL-CAFE</td>
       <td><a href="https://github.com/AbdulAHAD968/LOCAL-CAFE">Repo</a></td>
-      <td><a href="https://chai-mahfil.vercel.app/">Live</a></td>
+      <td><a href="https://chai-mahfil.vercel.app/" target="_blank">Live</a></td>
       <td>A modern, responsive web app for menu browsing, cart management, and order placement at your local tea house.</td>
     </tr>
     <tr>
