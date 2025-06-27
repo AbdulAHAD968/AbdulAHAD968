@@ -51,7 +51,7 @@
 \subsection{FAST National University}
 \descript{Bachelors In Cyber Security}
 \location{2023-2027 | Islamabad, Pakistan}
-\location{ Cum. GPA: 3.59 / 4.0}
+\location{ Cum. GPA: 3.64 / 4.0}
 \sectionsep
 
 \subsection{Punjab College}
@@ -60,11 +60,20 @@
 \location{Grade: 88\%}  
 \sectionsep
 
-\subsection{FG Abbas Public School}
-\descript{Matriculation}
-\location{2010-2020 | AhmedPur, Pakistan}
-\location{Grade: 93.1\%} 
-\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     CERTIFICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Certifications}
+
+\noindent
+
+\textbf{GitHub Foundations} -- \textbf{\href{https://www.credly.com/badges/6078ee7e-738b-4f05-aaac-a8987b039c71/linked_in_profile}{Preview} } \\
+
+\textbf{Google AI Essentials} -- \textbf{\href{https://www.coursera.org/account/accomplishments/specialization/68ER7MPA9UBN}{Preview}} \\
+\textbf{Google Project Management} -- \textbf{\href{https://www.coursera.org/account/accomplishments/specialization/N96IX7W3P7QN}{Preview}} \\
+\textbf{MongoDB Node.js Developer} -- \textbf{\href{https://learn.mongodb.com/c/5-U5naaIT-6QT9m8YKBwsw}{Preview}} \\
+\textbf{Google Cybersecurity} -- \textbf{\href{https://www.coursera.org/account/accomplishments/professional-cert/WAHJ59BMJXPE}{Preview}}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -74,19 +83,16 @@
 
 \subsection{Programming}
 
-\location{Languages:}  
-\textbullet{} \textbf{Advanced: C++} \\ 
-\textbullet{} \textbf{Intermediate: Python, JavaScript, SQL} \\
-\textbullet{} \textbf{Novice: Bash} \\
+\location{Languages:}
+\textbullet{} \textbf{ C++, Python, JavaScript, NodeJS} \\
 
 \location{Tools:}
 \textbullet{} \textbf{Git} \textbullet{} \textbf{Linux} \textbullet{} \textbf{Windows} \textbullet{} \textbf{GitHub} \\
 
 \location{Frameworks \& Libraries:}
-\textbullet{} \textbf{React.js} \textbullet{} \textbf{Express.js} \\
+\textbullet{} \textbf{React.js} \textbullet{} \textbf{Express.js} 
+\textbullet{} \textbf{Three.js} \\
 
-\location{Technologies:}
-\textbullet{} \textbf{CSS} \textbullet{} \textbf{HTML} \textbullet{} \textbf{MongoDB} \textbullet{} \textbf{Three.js} \\
 \sectionsep  
 
 \subsection{Others}  
@@ -176,7 +182,7 @@
 \section{Awards} 
 \begin{tabular}{rll}
 \textbf{2025}	     & \textbf{Silver Medal}  & \textbf{FAST NU ISLAMABAD}\\
-\textbf{2025}     & \textbf{Dean's List-2x} & \textbf{FAST NU ISLAMABAD}  \\
+\textbf{2025}     & \textbf{Dean's List-3x} & \textbf{FAST NU ISLAMABAD}  \\
 \textbf{2024}	     & \textbf{Gold Medal}  & \textbf{FAST NU ISLAMABAD}\\
 \textbf{2024}     & \textbf{1}\textsuperscript{st}/\textbf{200} & \textbf{FPSC - FAST Problem Solving Challenge} \\
 \textbf{2024}     & \textbf{National} & \textbf{Pakistan Cyber Security Challenge (PCC) 2024 Finalist} \\
