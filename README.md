@@ -4,7 +4,7 @@
 
 <!-- <p align="center"> -->
 <!--   <img src="cat.gif" alt="TypingCat"> mad man lives here -->
-<!-- </p> -->
+<!-- </p> this shoud not be added here --> 
 
   
   <h1 align="center" class="text-orange" aria-label="Blessings upon you all. I am Abdul Ahad.">
