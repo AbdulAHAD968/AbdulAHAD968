@@ -68,12 +68,16 @@
 
 \noindent
 
+\textbf{Google Cybersecurity} -- \textbf{\href{https://www.coursera.org/account/accomplishments/professional-cert/WAHJ59BMJXPE}{Preview}}
+
+\textbf{Google Project Management} -- \textbf{\href{https://www.coursera.org/account/accomplishments/specialization/N96IX7W3P7QN}{Preview}} \\
+
+\textbf{Microsoft Excel Expert} -- \textbf{\href{https://coursera.org/verify/professional-cert/XTS9674LC661}{Preview} } \\
+
 \textbf{GitHub Foundations} -- \textbf{\href{https://www.credly.com/badges/6078ee7e-738b-4f05-aaac-a8987b039c71/linked_in_profile}{Preview} } \\
 
 \textbf{Google AI Essentials} -- \textbf{\href{https://www.coursera.org/account/accomplishments/specialization/68ER7MPA9UBN}{Preview}} \\
-\textbf{Google Project Management} -- \textbf{\href{https://www.coursera.org/account/accomplishments/specialization/N96IX7W3P7QN}{Preview}} \\
 \textbf{MongoDB Node.js Developer} -- \textbf{\href{https://learn.mongodb.com/c/5-U5naaIT-6QT9m8YKBwsw}{Preview}} \\
-\textbf{Google Cybersecurity} -- \textbf{\href{https://www.coursera.org/account/accomplishments/professional-cert/WAHJ59BMJXPE}{Preview}}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -110,17 +114,27 @@
 
 \section{Experience}
 
+\vspace{0.2em}
+\runsubsection{Mobilink Microfinance Bank (MMBL)}  
+\descript{| Information Security Intern}  
+\location{July 2025 – Present | Onsite, Islamabad, Pakistan}  
+\vspace{0.69em}
+\begin{tightemize}
+  \item \textbf{Streamlined asset inventory management and risk register updates, improving data accuracy and risk tracking across 400+ systems.}
+  \item \textbf{On-boarded devices into PAM and delivered privileged user trainings, reinforcing access control and reducing insider risk.}
+\end{tightemize}
+
 \runsubsection{Chrio}
 \descript{| Research and Development Intern}
 \location{May 2025 – Present | Remote, Islamabad, Pakistan}
-\vspace{0.69em}
+\vspace{0.37em}
 \begin{tightemize}
-  \item \textbf{Preprocessed raw datasets and fine-tuned machine learning models to align with project objectives, increasing training accuracy by 18\%.}
-  \item \textbf{Collaborated on experimental feature rollouts by testing prototypes and suggesting optimizations in model training loops.}
+  \item \textbf{Annotated large-scale datasets using tools like Roboflow, streamlining model training and boosting accuracy by 18\%.}
+  \item \textbf{Evaluated GPU options and recommended cost-effective hardware, balancing performance and budget for AI workloads.}
 \end{tightemize}
 
 \vspace{0.39em}
-\runsubsection{FAST-NUCES, Islamabad Campus}  
+\runsubsection{FAST-NUCES}  
 \descript{| Lab Demonstrator – Digital Logic Design}  
 \location{Aug 2024 – June 2025 | On-campus, Islamabad, Pakistan}  
 \begin{tightemize}  
@@ -164,15 +178,6 @@
 \end{tightemize}
 
 \sectionsep
-
-\runsubsection{DUA-VAULT}  
-\descript{| JavaScript, HTML, CSS}  
-\location{2025 | GitHub: \href{https://github.com/AbdulAHAD968/Masnoon-Dua}{Dua Vault} | Live: \href{https://abdulahad968.github.io/Masnoon-Dua/}{Dua Vault Website}}  
-\begin{tightemize}
-  \item \textbf{Designed a prayer app used by 115+ users; optimized for low-bandwidth and mobile devices.}
-  \item \textbf{Scored 100\% on Lighthouse for Best Practices, accessibility, and SEO and 91\% on Performance; built with clean UI for ease-of-use.}
-\end{tightemize}
-
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
