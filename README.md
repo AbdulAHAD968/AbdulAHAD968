@@ -2,38 +2,57 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=300&section=header&text=Abdul%20Ahad&desc=AI%20and%20Cyber%20Enthusiast%20|%20Web%20Developer&fontSize=85&animation=fadeIn&fontColor=FFFFFF&descSize=22&fontAlignY=35&descAlignY=55" />
 </p>
 
-<!-- <p align="center"> -->
-<!--   <img src="cat.gif" alt="TypingCat"> mad man lives here -->
-<!-- </p> this shoud not be added here --> 
-
-  
-  <h1 align="center" class="text-orange" aria-label="Blessings upon you all. I am Abdul Ahad.">
-      👨‍🎓 Blessings upon you all. I am Abdul Ahad. ✨🐱‍💻✨
-  </h1>
-
 ---
 
 <h2 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Blessings+Upon+You+All👋!!;I'm+a+Cybersecurity+Enthusiast!;I'm+a+Web+Developer!;I'm+a+Problem+Solver!;I'm+a+Prompt+Engineer!;I'm+a+Tech+Learner!&font=Fira%20Code&center=true&width=480&height=50" />
+      <img src="https://readme-typing-svg.herokuapp.com?lines=Blessings+Upon+You+All%F0%9F%91%8B!!;I+am+Abdul+Ahad&font=Fira%20Code&center=true&width=480&height=50" />
       <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="70"/ loading="lazy" />
 </h2>
 
 ---
 
-## Tools I Have Used and Learned
+## Cybersecurity & Pentesting Tools I Have Used and Learned
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <!-- Recon & Scanning -->
+  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/></a>
+  <a href="https://www.tcpdump.org/"><img src="https://img.shields.io/badge/Tcpdump-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="tcpdump"/></a>
+  <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Nmap"/></a>
+  <a href="https://www.kali.org/tools/nikto/"><img src="https://img.shields.io/badge/Nikto-FF0000?style=for-the-badge&logo=apache&logoColor=white" alt="Nikto"/></a>
+  <a href="https://github.com/OJ/gobuster"><img src="https://img.shields.io/badge/Gobuster-FF6F00?style=for-the-badge&logo=go&logoColor=white" alt="Gobuster"/></a>
+  <a href="https://github.com/ffuf/ffuf"><img src="https://img.shields.io/badge/ffuf-333333?style=for-the-badge&logo=go&logoColor=white" alt="ffuf"/></a>
+  <a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/Nessus-006400?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/></a>
+  <a href="https://www.openvas.org/"><img src="https://img.shields.io/badge/OpenVAS-009639?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="OpenVAS"/></a>
 </p>
+
+<p align="center">
+  <!-- Exploitation & Web App Testing -->
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
+  <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/></a>
+  <a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/></a>
+  <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/></a>
+  <a href="https://sqlmap.org/"><img src="https://img.shields.io/badge/SQLmap-F29111?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLmap"/></a>
+  <a href="https://hydra.run/"><img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Hydra"/></a>
+</p>
+
+<p align="center">
+  <!-- OSINT & Monitoring -->
+  <a href="https://www.shodan.io/"><img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/></a>
+  <a href="https://www.maltego.com/"><img src="https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logo=maltego&logoColor=white" alt="Maltego"/></a>
+  <a href="https://wazuh.com/"><img src="https://img.shields.io/badge/Wazuh-0057B8?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/></a>
+  <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/></a>
+  <a href="https://www.elastic.co/elastic-stack/"><img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Elastic Stack"/></a>
+</p>
+
+<p align="center">
+  <!-- Wireless & Specialized -->
+  <a href="https://www.aircrack-ng.org/"><img src="https://img.shields.io/badge/Aircrack--ng-111111?style=for-the-badge&logo=wifi&logoColor=white" alt="Aircrack-ng"/></a>
+  <a href="https://hashcat.net/hashcat/"><img src="https://img.shields.io/badge/Hashcat-2D2D2D?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashcat"/></a>
+  <a href="https://johntheripper.net/"><img src="https://img.shields.io/badge/John%20the%20Ripper-333333?style=for-the-badge&logo=lock&logoColor=white" alt="John the Ripper"/></a>
+</p>
+
+
+
 
 ---
 
