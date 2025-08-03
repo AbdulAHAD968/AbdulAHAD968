@@ -158,7 +158,7 @@
 
 ---
 
-## Skills
+## Programming Languages and Web Development Tool kit
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
@@ -170,16 +170,6 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
----
-
-## TryHackMe Profile
-
-<p align="center">
-  <a href="https://tryhackme.com/p/AbdulAhaD">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/AbdulAhaD.png" alt="My Image Badge" />
-  </a>
 </p>
 
 ---
