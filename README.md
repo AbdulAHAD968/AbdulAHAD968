@@ -181,25 +181,23 @@
 
 ---
 
-## Professional Summary  
-**2nd-year Cyber Security student at NUCES-ISB** – building web apps, breaking them, then fixing them properly. More of a "code first, ask questions later" learner. Grinding DSA to stay sharp, but care more about **building real things** than just solving puzzles.  
+## Professional Summary
+Hi, I’m Abdul Ahad - a Cybersecurity student at NUCES-ISB who’s passionate about making web applications secure and reliable. I learn best by working on real-world projects, always aiming to improve through both successes and mistakes.
 
-**Where I Focus:**  
-- **Web Dev:** React + Node.js stack (because everything needs a frontend, even security tools)  
-- **Security:** Secure coding evangelist – vuln prevention > damage control  
-- **Cloud/DevSecOps:** Making sure deployments don't mean "open season for hackers"  
-
-**Endgame:** Build **functional, resilient tech** that doesn't embarrass itself in production  
+What I’m into right now:
+- [x] Web Development: MERN stack with React + Node.js, building tools that are functional, clean, and secure
+- [x] Security: Penetration testing, vulnerability assessments, and secure coding practices
+- [x] Cloud & DevSecOps: Ensuring deployments stay safe and resilient post-launch
+My goal is simple: create tech that works under pressure—fast, secure, and reliable in the real world.
 
 ---
 
-## Collaboration  
-**Let's work together if you're into:**  
-- **Building (or securing)** web apps, tools, or startup ideas  
-- **Teaching/learning** – especially security, ethical hacking, or full-stack dev  
-- **Making tech safer** – from secure code to spreading infosec awareness  
-
-*(No ego, just execution.)*
+## Collaboration
+I’m open to teaming up on:
+- [x] Security-focused or full-stack projects
+- [x] CTF challenge creation and writeups
+- [x] Knowledge sharing in ethical hacking, secure coding, or app development
+I value clear communication, consistent delivery, and real problem-solving over buzzwords.
 
 ---
 
@@ -246,44 +244,11 @@ I believe in the power of learning through hands-on experiences and continuous c
 </div>
 
 ---
-
-## GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAHAD968&theme=radical" alt="GitHub Streak" style="width: 58%;" />
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAHAD968&theme=radical" alt="GitHub Contribution Graph" />
-</div>
-
----
 <div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-## Profile Views
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=AbdulAHAD968&color=brightgreen" alt="Profile Views" style="width: 50%;"/>
-</div>
-
----
-
-<div style="border-left: 4px solid #58a6ff; padding-left: 1em; color: #c9d1d9; background-color: #161b22; padding: 1em; border-radius: 10px;">
-  <p><em>“If the storm of longing ceases, I will no longer exist.<br>
-  For my very existence is this restless longing!!”</em></p>
-  <p style="text-align: right; font-weight: bold;">— Allama Iqbal</p>
-</div>
-
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
 </p>
-
----
