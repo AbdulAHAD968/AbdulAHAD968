@@ -71,90 +71,97 @@
   <tbody>
     <tr>
       <td>1</td>
+      <td>Rapid Recon</td>
+      <td><a href="https://github.com/AbdulAHAD968/RUSTSCAN-Command-Generator">Repo</a></td>
+      <td><a href="https://rustscan.vercel.app/" target="_blank">Live</a></td>
+      <td>The RustScan Command Generator is a web application built with React to simplify the creation of RustScan commands for network scanning.</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>Network Insight</td>
       <td><a href="https://github.com/AbdulAHAD968/NMAP-COMMAND-GENERATOR">Repo</a></td>
       <td><a href="https://nmap-delta.vercel.app/" target="_blank">Live</a></td>
       <td>The NMAP Command Generator is a React-based web tool for creating NMAP commands, offering Basic, Advanced, and NSE modes.</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>What-GPA?</td>
       <td><a href="https://github.com/AbdulAHAD968/What-GPA">Repo</a></td>
       <td><a href="https://what-gpa.vercel.app/" target="_blank">Live</a></td>
       <td>Calculate your FAST NUCES semester GPA with precision. Designed specifically for FAST students with support for all campuses and departments.</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>VLSM-CALCULATOR</td>
       <td><a href="https://github.com/AbdulAHAD968/VLSM-Calculator">Repo</a></td>
       <td><a href="https://vlsm-calculator-xi.vercel.app/" target="_blank">Live</a></td>
       <td>Free online VLSM calculator for network engineers. Calculate subnet masks and IP ranges.</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>LOCAL-CAFE</td>
       <td><a href="https://github.com/AbdulAHAD968/LOCAL-CAFE">Repo</a></td>
       <td><a href="https://chai-mahfil.vercel.app/" target="_blank">Live</a></td>
       <td>A modern, responsive web app for menu browsing, cart management, and order placement at your local tea house.</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>FILE-MORPH</td>
       <td><a href="https://github.com/AbdulAHAD968/FILE-MORPH">Repo</a></td>
       <td><a href="https://file-morph-six.vercel.app/">Live</a></td>
       <td>Effortlessly convert PDF, Word, and PPT files — simple, fast, and secure file converter.</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>PULSE-WIRE</td>
       <td><a href="https://github.com/AbdulAHAD968/PULSE-WIRE">Repo</a></td>
       <td><a href="https://pulsewire-eight.vercel.app/">Live</a></td>
       <td>News app using The Guardian API for real-time news and customizable feeds.</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>EXPENSE-TRACKER</td>
       <td><a href="https://github.com/AbdulAHAD968/EXPENSE-TRACKER">Repo</a></td>
       <td><a href="https://github.com/AbdulAHAD968/EXPENSE-TRACKER">Not Hosted</a></td>
       <td>Full-stack app to manage expenses with dashboards & analytics. MongoDB, React, Node.js.</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>QUENCH-THIRST</td>
       <td><a href="https://github.com/AbdulAHAD968/QUENCH-THIRST">Repo</a></td>
       <td><a href="https://github.com/AbdulAHAD968/QUENCH-THIRST">Not Hosted</a></td>
       <td>Water delivery management system with real-time tracking, dashboards & user roles.</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>AI-SOC-PROTO</td>
       <td><a href="https://github.com/AbdulAHAD968/AI-SOC-PROTO">Repo</a></td>
       <td><a href="https://soc-shield.vercel.app/">Live</a></td>
       <td>Threat management prototype with autonomous assistant and ABUSEIP integration.</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>DUA-VAULT</td>
       <td><a href="https://github.com/AbdulAHAD968/Masnoon-Dua">Repo</a></td>
       <td><a href="https://abdulahad968.github.io/Masnoon-Dua/">Live</a></td>
       <td>A collection of Masnoon Duas in a simple, accessible web interface.</td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>PHONE NUMBER EXTRACTOR</td>
       <td><a href="https://github.com/AbdulAHAD968/TAP-MAN">Repo</a></td>
       <td><a href="https://tapman-xi.vercel.app/">Live</a></td>
       <td>Phone number extractor and validator using Tesseract OCR.</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>QR-SCANDLE</td>
       <td><a href="https://github.com/AbdulAHAD968/QR-SCANDLE">Repo</a></td>
       <td><a href="https://abdulahad968.github.io/QR-SCANDLE/">Live</a></td>
       <td>QR code generator built using HTML, CSS, and JavaScript.</td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>Buena-Comunidad</td>
       <td><a href="https://github.com/AbdulAHAD968/Buena-Comunidad">Repo</a></td>
       <td><a href="https://abdulahad968.github.io/Buena-Comunidad/">Live</a></td>
