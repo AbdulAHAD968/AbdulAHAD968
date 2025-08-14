@@ -148,24 +148,17 @@
     </tr>
     <tr>
       <td>12</td>
-      <td>PHONE NUMBER EXTRACTOR</td>
-      <td><a href="https://github.com/AbdulAHAD968/TAP-MAN">Repo</a></td>
-      <td><a href="https://tapman-xi.vercel.app/">Live</a></td>
-      <td>Phone number extractor and validator using Tesseract OCR.</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>QR-SCANDLE</td>
-      <td><a href="https://github.com/AbdulAHAD968/QR-SCANDLE">Repo</a></td>
-      <td><a href="https://abdulahad968.github.io/QR-SCANDLE/">Live</a></td>
-      <td>QR code generator built using HTML, CSS, and JavaScript.</td>
-    </tr>
-    <tr>
-      <td>14</td>
       <td>Buena-Comunidad</td>
       <td><a href="https://github.com/AbdulAHAD968/Buena-Comunidad">Repo</a></td>
       <td><a href="https://abdulahad968.github.io/Buena-Comunidad/">Live</a></td>
       <td>A website to help NU students find NGOs using OSM API. Pure HTML, CSS, JS.</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Buena-Comunidad</td>
+      <td><a href="https://github.com/AbdulAHAD968/Gobuster-Command-Generator">Repo</a></td>
+      <td><a href="https://gobuster.vercel.app/">Live</a></td>
+      <td>Gobuster Command Generator is a web application designed to simplify the creation of Gobuster commands for directory and virtual host brute-forcing.</td>
     </tr>
   </tbody>
 </table>
