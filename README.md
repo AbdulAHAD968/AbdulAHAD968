@@ -155,7 +155,7 @@
     </tr>
     <tr>
       <td>13</td>
-      <td>Buena-Comunidad</td>
+      <td>Directory Scanner</td>
       <td><a href="https://github.com/AbdulAHAD968/Gobuster-Command-Generator">Repo</a></td>
       <td><a href="https://gobuster.vercel.app/">Live</a></td>
       <td>Gobuster Command Generator is a web application designed to simplify the creation of Gobuster commands for directory and virtual host brute-forcing.</td>
