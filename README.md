@@ -202,35 +202,6 @@ I value clear communication, consistent delivery, and real problem-solving over 
 
 ---
 
-## Let's Connect!
-
-I’m open to **collaborative projects** in **cybersecurity**, **programming**, or **knowledge-sharing** initiatives. Feel free to reach out if you’d like to discuss ideas or explore ways we can work together.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul-ahad-988305286" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ahad06074@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-Looking forward to connecting!
-
----
-
-## Pronouns
-
-He/Him  
-
----
-
-## Fun Fact  
-
-I believe in the power of learning through hands-on experiences and continuous curiosity in the ever-evolving landscape of cybersecurity.  
-
----
-
 ## GitHub Stats
 
 <div align="center">
