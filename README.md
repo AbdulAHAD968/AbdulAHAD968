@@ -4,13 +4,6 @@
 
 ---
 
-<h2 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?lines=Blessings+Upon+You+All%F0%9F%91%8B!!;I+am+Abdul+Ahad&font=Fira%20Code&center=true&width=480&height=50" />
-      <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="70"/ loading="lazy" />
-</h2>
-
----
-
 ## Cybersecurity & Pentesting Tools I Have Used and Learned
 
 <p align="center">
