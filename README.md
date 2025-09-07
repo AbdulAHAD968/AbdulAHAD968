@@ -29,7 +29,6 @@
 </p>
 
 <p align="center">
-  <!-- OSINT & Monitoring -->
   <a href="https://www.shodan.io/"><img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/></a>
   <a href="https://www.maltego.com/"><img src="https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logo=maltego&logoColor=white" alt="Maltego"/></a>
   <a href="https://wazuh.com/"><img src="https://img.shields.io/badge/Wazuh-0057B8?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/></a>
@@ -38,7 +37,6 @@
 </p>
 
 <p align="center">
-  <!-- Wireless & Specialized -->
   <a href="https://www.aircrack-ng.org/"><img src="https://img.shields.io/badge/Aircrack--ng-111111?style=for-the-badge&logo=wifi&logoColor=white" alt="Aircrack-ng"/></a>
   <a href="https://hashcat.net/hashcat/"><img src="https://img.shields.io/badge/Hashcat-2D2D2D?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashcat"/></a>
   <a href="https://johntheripper.net/"><img src="https://img.shields.io/badge/John%20the%20Ripper-333333?style=for-the-badge&logo=lock&logoColor=white" alt="John the Ripper"/></a>
