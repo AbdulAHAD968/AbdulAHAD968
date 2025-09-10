@@ -173,13 +173,13 @@
 ---
 
 ## Professional Summary
-Hi, I’m Abdul Ahad - a Cybersecurity student at NUCES-ISB who’s passionate about making web applications secure and reliable. I learn best by working on real-world projects, always aiming to improve through both successes and mistakes.
+Hi, I’m Abdul Ahad - an Information Security Engineer passionate about making web applications secure and reliable. I learn best by working on real-world projects, always aiming to improve through both successes and mistakes.
 
 What I’m into right now:
 - [x] Web Development: MERN stack with React + Node.js, building tools that are functional, clean, and secure.
 - [x] Security: Penetration testing, vulnerability assessments, and secure coding practices.
 - [x] Cloud & DevSecOps: Ensuring deployments stay safe and resilient post-launch.
-My goal is simple: create tech that works under pressure—fast, secure, and reliable in the real world.
+My goal is simple: create tech that works under pressure - fast, secure, and reliable in the real world.
 
 ---
 
