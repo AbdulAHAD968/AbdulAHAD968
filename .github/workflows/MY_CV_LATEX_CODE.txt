@@ -35,12 +35,13 @@
 %     PROFESSIONAL SUMMARY
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Professional Summary}
-\textbf{Cyber Security student and Web Developer with 1+ year of experience building scalable tools and RESTful APIs. Skilled in React.js, Node.js, Git, Linux, and DSA. Delivered 5+ real-world projects, contributed to Pakistan’s top 80 GitHub committers, and assisted in AI model training during a research internship. Looking for an opportunity to apply my expertise.}
+\textbf{Cybersecurity student with 2+ years of experience in web development and security. Skilled in vulnerability assessment, penetration testing, and secure application design, with hands-on practice on TryHackMe and HackTheBox. Proficient in React.js, Next.js, Git, Linux, and DSA, with a strong track record of delivering real-world projects and contributing to Pakistan’s top 100 GitHub committers.}
 \sectionsep
 
 \section{Career Objectives}
-\textbf{Eager to gain hands-on experience in software development and security through a role where I can apply my technical skills, learn from real-world challenges, and grow into a well-rounded engineer.}
+\textbf{Eager to gain hands-on experience in software development and security, with a long-term goal of transitioning into DevSecOps, IAM, or VAPT roles to strengthen organizational security and drive innovation.}
 \sectionsep
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -52,12 +53,6 @@
 \descript{Bachelors In Cyber Security}
 \location{2023-2027 | Islamabad, Pakistan}
 \location{ Cum. GPA: 3.64 / 4.0}
-\sectionsep
-
-\subsection{Punjab College}
-\descript{Pre Engineering}
-\location{2020-2022 | AhmedPur, Pakistan} 
-\location{Grade: 88\%}  
 \sectionsep
 
 
@@ -77,6 +72,7 @@
 \textbf{GitHub Foundations} -- \textbf{\href{https://www.credly.com/badges/6078ee7e-738b-4f05-aaac-a8987b039c71/linked_in_profile}{Preview} } \\
 
 \textbf{Google AI Essentials} -- \textbf{\href{https://www.coursera.org/account/accomplishments/specialization/68ER7MPA9UBN}{Preview}} \\
+
 \textbf{MongoDB Node.js Developer} -- \textbf{\href{https://learn.mongodb.com/c/5-U5naaIT-6QT9m8YKBwsw}{Preview}} \\
 
 
@@ -85,17 +81,21 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Skills}
 
-\subsection{Programming}
-
 \location{Languages:}
-\textbullet{} \textbf{ C++, Python, JavaScript, NodeJS} \\
+\textbullet{} \textbf{ Python, TypeScript, JavaScript, NodeJS} \\
 
 \location{Tools:}
-\textbullet{} \textbf{Git} \textbullet{} \textbf{Linux} \textbullet{} \textbf{Windows} \textbullet{} \textbf{GitHub} \\
+\textbullet{} \textbf{Git, GitHub, Docker, Postman}\\
 
 \location{Frameworks \& Libraries:}
-\textbullet{} \textbf{React.js} \textbullet{} \textbf{Express.js} 
-\textbullet{} \textbf{Three.js} \\
+\textbullet{} \textbf{Next.js} \textbullet{} \textbf{Express.js} 
+\textbullet{} \textbf{React.js} \\
+
+\location{Penetration Testing:}
+\textbullet{} \textbf{Metasploit, Burp Suite, Nmap, Nikto} \\
+
+\location{Vulnerability Management:}
+\textbullet{} \textbf{Rapid7 InsightVM, Nessus} \\
 
 \sectionsep  
 
@@ -117,7 +117,7 @@
 \vspace{0.2em}
 \runsubsection{Mobilink Microfinance Bank (MMBL)}  
 \descript{| Information Security Intern}  
-\location{July 2025 – Present | Onsite, Islamabad, Pakistan}  
+\location{July 2025 – Aug 2025 | Onsite, Islamabad, Pakistan}  
 \vspace{0.69em}
 \begin{tightemize}
   \item \textbf{Streamlined asset inventory management and risk register updates, improving data accuracy and risk tracking across 400+ systems.}
@@ -126,7 +126,7 @@
 
 \runsubsection{Chrio}
 \descript{| Research and Development Intern}
-\location{May 2025 – Present | Remote, Islamabad, Pakistan}
+\location{May 2025 – Sep 2025 | Hybrid, Islamabad, Pakistan}
 \vspace{0.37em}
 \begin{tightemize}
   \item \textbf{Annotated large-scale datasets using tools like Roboflow, streamlining model training and boosting accuracy by 18\%.}
@@ -135,8 +135,8 @@
 
 \vspace{0.39em}
 \runsubsection{FAST-NUCES}  
-\descript{| Lab Demonstrator – Digital Logic Design}  
-\location{Aug 2024 – June 2025 | On-campus, Islamabad, Pakistan}  
+\descript{| Lab Demonstrator – OOP \& Digital Logic Design}  
+\location{Aug 2024 – Present | On-campus, Islamabad, Pakistan}  
 \begin{tightemize}  
   \item \textbf{Led weekly lab sessions for 100+ undergrads, covering logic gates, combinational circuits, and sequential designs.}
   \item \textbf{Boosted student lab performance by 25\% via one-on-one technical support and troubleshooting digital simulations.}
@@ -149,35 +149,36 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Projects}
 
-\runsubsection{QUENCH-THIRST}  
-\descript{| MERN Stack (MongoDB, Express, React, Node.js)}  
-\location{2025 | GitHub: \href{https://github.com/AbdulAHAD968/QUENCH-THIRST}{AbdulAHAD968}}  
+\runsubsection{TYPE-ON}  
+\descript{| Full Stack, Vercel Serverless, MongoDB, React}  
+\location{2025 | GitHub: \href{https://github.com/AbdulAHAD968/Typing-Speed-Tracker}{Typing-Speed-Tracker} | Live: \href{https://typeon.vercel.app/}{TYPON Website}}  
 \begin{tightemize}
-  \item \textbf{Developed a role-based water delivery platform with real-time order tracking, dashboards, and secure login.}
-  \item \textbf{Built RESTful APIs (GET, POST, PUT, DELETE) and optimized queries, improving response time by 35\%.}
+  \item \textbf{Developed a typing speed platform with real-time WPM, accuracy tracking, and visual error indicators.}
+  \item \textbf{Implemented JWT-based authentication, result persistence in MongoDB, and analytics dashboard with performance charts.}
 \end{tightemize}
 
 \sectionsep
 
-\runsubsection{FIN TRACK}  
-\descript{| JavaScript, React, Node.js, PowerShell}  
-\location{2025 | GitHub: \href{https://github.com/AbdulAHAD968/EXPENSE-TRACKER}{EXPENSE-TRACKER}}  
+\runsubsection{RED TEAM ASSISTANT}  
+\descript{| Python, Node.js, Security Automation, Penetration Testing Tools}  
+\location{2025 | GitHub: \href{https://github.com/AbdulAHAD968/RED-TEAM-ASSISTANT}{RED TEAM ASSISTANT}}  
 \begin{tightemize}
-  \item \textbf{Created a desktop expense tracker with 9+ modules (budgeting, reports, auth, and settings).}
-  \item \textbf{PowerShell script auto-generates a desktop icon; achieved 90\%+ responsiveness across screen sizes.}
+  \item \textbf{Integrated 9+ cybersecurity tools (Nmap, RustScan, Nessus, TestSSL, WhatWeb, Nikto) for automated reconnaissance and vulnerability scanning.}
+  \item \textbf{Facilitated mid-to-high level penetration testing workflows for network, web, and SSL/TLS security assessments.}
 \end{tightemize}
 
 \sectionsep
 
 \runsubsection{FILE-MORPH}  
 \descript{| Node.js, Tesseract, Vue, React}  
-\location{2025 | GitHub: \href{https://github.com/AbdulAHAD968/FILE-MORPH}{FILE-MORPH} | Live: \href{https://file-morph-six.vercel.app/}{FILE-MORPH Website} }  
+\location{2025 | GitHub: \href{https://github.com/AbdulAHAD968/FILE-MORPH}{FILE-MORPH} | Live: \href{https://file-morph-six.vercel.app/}{FILE-MORPH Website}}  
 \begin{tightemize}
-  \item \textbf{Built a file converter with OCR text extraction  supporting 30+ conversions per session and 7+ languages.}
+  \item \textbf{Built a file converter with OCR text extraction supporting 30+ conversions and 7+ languages.}
   \item \textbf{Integrated Tesseract for 90\%+ OCR accuracy; dual front-ends (Vue + React) for wide compatibility.}
 \end{tightemize}
 
 \sectionsep
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
