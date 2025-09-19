@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <!-- Exploitation & Web App Testing -->
+  <!-- Exploitation & Web Application Testing -->
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
   <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/></a>
   <a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/></a>
