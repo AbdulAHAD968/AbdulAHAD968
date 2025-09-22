@@ -96,6 +96,13 @@
       <td><a href="https://github.com/AbdulAHAD968/QUENCH-THIRST">Not Hosted</a></td>
       <td>Water delivery management system with real-time tracking, dashboards & user roles.</td>
     </tr>
+    <tr>
+      <td>3</td>
+      <td>Mini-Kanban</td>
+      <td><a href="https://github.com/AbdulAHAD968/Mini-Kanban">Repo</a></td>
+      <td><a href="https://github.com/AbdulAHAD968/Mini-Kanban">Not Hosted</a></td>
+      <td>Mini-Kanban is a lightweight, visually appealing Kanban board application inspired by Trello, designed for efficient project management.</td>
+    </tr>
   </tbody>
 </table>
 
