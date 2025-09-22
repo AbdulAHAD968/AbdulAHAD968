@@ -43,11 +43,65 @@
 </p>
 
 
+---
+## FULL STACK (Vercel Serverless Deployments)
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Project Name</th>
+      <th>Repo Link</th>
+      <th>Live Demo</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Typing Speed Tracker</td>
+      <td><a href="https://github.com/AbdulAHAD968/Typing-Speed-Tracker">Repo</a></td>
+      <td><a href="https://typeon.vercel.app/" target="_blank">Live</a></td>
+      <td>Typing Speed Tracker is a web application that offers real-time performance tracking, detailed statistics, and user authentication for a personalized experience.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---
+## FULL STACK (Not Deployed)
 
-<h2> My Deployed & Documented Projects</h2>
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Project Name</th>
+      <th>Repo Link</th>
+      <th>Live Demo</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>EXPENSE-TRACKER</td>
+      <td><a href="https://github.com/AbdulAHAD968/EXPENSE-TRACKER">Repo</a></td>
+      <td><a href="https://github.com/AbdulAHAD968/EXPENSE-TRACKER">Not Hosted</a></td>
+      <td>Full-stack app to manage expenses with dashboards & analytics. MongoDB, React, Node.js.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>QUENCH-THIRST</td>
+      <td><a href="https://github.com/AbdulAHAD968/QUENCH-THIRST">Repo</a></td>
+      <td><a href="https://github.com/AbdulAHAD968/QUENCH-THIRST">Not Hosted</a></td>
+      <td>Water delivery management system with real-time tracking, dashboards & user roles.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## My Deployed & Documented Mini Projects
 
 <table>
   <thead>
@@ -111,41 +165,27 @@
     </tr>
     <tr>
       <td>8</td>
-      <td>EXPENSE-TRACKER</td>
-      <td><a href="https://github.com/AbdulAHAD968/EXPENSE-TRACKER">Repo</a></td>
-      <td><a href="https://github.com/AbdulAHAD968/EXPENSE-TRACKER">Not Hosted</a></td>
-      <td>Full-stack app to manage expenses with dashboards & analytics. MongoDB, React, Node.js.</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>QUENCH-THIRST</td>
-      <td><a href="https://github.com/AbdulAHAD968/QUENCH-THIRST">Repo</a></td>
-      <td><a href="https://github.com/AbdulAHAD968/QUENCH-THIRST">Not Hosted</a></td>
-      <td>Water delivery management system with real-time tracking, dashboards & user roles.</td>
-    </tr>
-    <tr>
-      <td>10</td>
       <td>AI-SOC-PROTO</td>
       <td><a href="https://github.com/AbdulAHAD968/AI-SOC-PROTO">Repo</a></td>
       <td><a href="https://soc-shield.vercel.app/">Live</a></td>
       <td>Threat management prototype with autonomous assistant and ABUSEIP integration.</td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>DUA-VAULT</td>
       <td><a href="https://github.com/AbdulAHAD968/Masnoon-Dua">Repo</a></td>
       <td><a href="https://abdulahad968.github.io/Masnoon-Dua/">Live</a></td>
       <td>A collection of Masnoon Duas in a simple, accessible web interface.</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>Buena-Comunidad</td>
       <td><a href="https://github.com/AbdulAHAD968/Buena-Comunidad">Repo</a></td>
       <td><a href="https://abdulahad968.github.io/Buena-Comunidad/">Live</a></td>
       <td>A website to help NU students find NGOs using OSM API. Pure HTML, CSS, JS.</td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>Directory Scanner</td>
       <td><a href="https://github.com/AbdulAHAD968/Gobuster-Command-Generator">Repo</a></td>
       <td><a href="https://gobuster.vercel.app/">Live</a></td>
