@@ -206,6 +206,7 @@
 ## Programming Languages and Web Development Tool Kit
 
 <p align="center">
+  
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -241,7 +242,7 @@
 ---
 
 ## Professional Summary
-Hi, I’m Abdul Ahad - an Information Security Engineer passionate about making web applications secure and reliable. I learn best by working on real-world projects, always aiming to improve through both successes and mistakes.
+Hi, I'm Abdul Ahad - an Information Security Engineer passionate about making web applications secure and reliable. I learn best by working on real-world projects, always aiming to improve through both successes and mistakes.
 
 What I’m into right now:
 - [x] Web Development: MERN stack with React + Node.js, building tools that are functional, clean, and secure.
@@ -252,7 +253,7 @@ My goal is simple: create tech that works under pressure - fast, secure, and rel
 ---
 
 ## Collaboration
-I’m open to teaming up on:
+I'm open to teaming up on:
 - [x] Security-focused or full-stack projects.
 - [x] CTF challenge creation and writeups.
 - [x] Knowledge sharing in ethical hacking, secure coding, or app development.
