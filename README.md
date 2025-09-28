@@ -108,7 +108,7 @@
 
 ---
 
-## My Deployed & Documented Mini Projects
+## Cybersecurity Mini Projects
 
 <table>
   <thead>
@@ -137,6 +137,59 @@
     </tr>
     <tr>
       <td>3</td>
+      <td>VLSM-CALCULATOR</td>
+      <td><a href="https://github.com/AbdulAHAD968/VLSM-Calculator">Repo</a></td>
+      <td><a href="https://vlsm-calculator-xi.vercel.app/" target="_blank">Live</a></td>
+      <td>Free online VLSM calculator for network engineers. Calculate subnet masks and IP ranges.</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Directory Scanner</td>
+      <td><a href="https://github.com/AbdulAHAD968/Gobuster-Command-Generator">Repo</a></td>
+      <td><a href="https://gobuster.vercel.app/">Live</a></td>
+      <td>Gobuster Command Generator is a web application designed to simplify the creation of Gobuster commands for directory and virtual host brute-forcing.</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>AI-SOC-PROTO</td>
+      <td><a href="https://github.com/AbdulAHAD968/AI-SOC-PROTO">Repo</a></td>
+      <td><a href="https://soc-shield.vercel.app/">Live</a></td>
+      <td>Threat management prototype with autonomous assistant and ABUSEIP integration.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## My Deployed & Documented Mini Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Project Name</th>
+      <th>Repo Link</th>
+      <th>Live Demo</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>DUA-VAULT</td>
+      <td><a href="https://github.com/AbdulAHAD968/Masnoon-Dua">Repo</a></td>
+      <td><a href="https://dua-vault.vercel.app/">Live</a></td>
+      <td>A collection of Masnoon Duas in a simple, accessible web interface.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>QrCode Generator</td>
+      <td><a href="https://github.com/AbdulAHAD968/QRCODE-GENERATOR">Repo</a></td>
+      <td><a href="https://drqr.vercel.app/">Live</a></td>
+      <td>A free and customizable QR Code Generator PWA that lets you create QR codes for URLs, text, WiFi, contacts, and more - no signup required.</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>What-GPA?</td>
       <td><a href="https://github.com/AbdulAHAD968/What-GPA">Repo</a></td>
       <td><a href="https://what-gpa.vercel.app/" target="_blank">Live</a></td>
@@ -144,59 +197,31 @@
     </tr>
     <tr>
       <td>4</td>
-      <td>VLSM-CALCULATOR</td>
-      <td><a href="https://github.com/AbdulAHAD968/VLSM-Calculator">Repo</a></td>
-      <td><a href="https://vlsm-calculator-xi.vercel.app/" target="_blank">Live</a></td>
-      <td>Free online VLSM calculator for network engineers. Calculate subnet masks and IP ranges.</td>
-    </tr>
-    <tr>
-      <td>5</td>
       <td>LOCAL-CAFE</td>
       <td><a href="https://github.com/AbdulAHAD968/LOCAL-CAFE">Repo</a></td>
       <td><a href="https://chai-mahfil.vercel.app/" target="_blank">Live</a></td>
       <td>A modern, responsive web app for menu browsing, cart management, and order placement at your local tea house.</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>FILE-MORPH</td>
       <td><a href="https://github.com/AbdulAHAD968/FILE-MORPH">Repo</a></td>
       <td><a href="https://file-morph-six.vercel.app/">Live</a></td>
       <td>Effortlessly convert PDF, Word, and PPT files — simple, fast, and secure file converter.</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>PULSE-WIRE</td>
       <td><a href="https://github.com/AbdulAHAD968/PULSE-WIRE">Repo</a></td>
       <td><a href="https://pulsewire-eight.vercel.app/">Live</a></td>
       <td>News app using The Guardian API for real-time news and customizable feeds.</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>AI-SOC-PROTO</td>
-      <td><a href="https://github.com/AbdulAHAD968/AI-SOC-PROTO">Repo</a></td>
-      <td><a href="https://soc-shield.vercel.app/">Live</a></td>
-      <td>Threat management prototype with autonomous assistant and ABUSEIP integration.</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>DUA-VAULT</td>
-      <td><a href="https://github.com/AbdulAHAD968/Masnoon-Dua">Repo</a></td>
-      <td><a href="https://abdulahad968.github.io/Masnoon-Dua/">Live</a></td>
-      <td>A collection of Masnoon Duas in a simple, accessible web interface.</td>
-    </tr>
-    <tr>
-      <td>10</td>
+      <td>7</td>
       <td>Buena-Comunidad</td>
       <td><a href="https://github.com/AbdulAHAD968/Buena-Comunidad">Repo</a></td>
       <td><a href="https://abdulahad968.github.io/Buena-Comunidad/">Live</a></td>
       <td>A website to help NU students find NGOs using OSM API. Pure HTML, CSS, JS.</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>Directory Scanner</td>
-      <td><a href="https://github.com/AbdulAHAD968/Gobuster-Command-Generator">Repo</a></td>
-      <td><a href="https://gobuster.vercel.app/">Live</a></td>
-      <td>Gobuster Command Generator is a web application designed to simplify the creation of Gobuster commands for directory and virtual host brute-forcing.</td>
     </tr>
   </tbody>
 </table>
