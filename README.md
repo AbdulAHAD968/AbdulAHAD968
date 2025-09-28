@@ -64,6 +64,13 @@
       <td><a href="https://typeon.vercel.app/" target="_blank">Live</a></td>
       <td>Typing Speed Tracker is a web application that offers real-time performance tracking, detailed statistics, and user authentication for a personalized experience.</td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td>BoardHub</td>
+      <td><a href="https://github.com/AbdulAHAD968/Mini-Trello">Repo</a></td>
+      <td><a href="https://boardshub.vercel.app/" target="_blank">Live</a></td>
+      <td>BoardHub is a ready-to-deploy project management application inspired by Kanban boards, designed to help teams organize tasks and collaborate effectively. Built with a serverless architecture and MongoDB.</td>
+    </tr>
   </tbody>
 </table>
 
