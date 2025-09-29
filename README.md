@@ -44,7 +44,7 @@
 
 
 ---
-## FULL STACK (Vercel Serverless Deployments)
+## FULL STACK (Vercel-Serverless Deployments)
 
 <table>
   <thead>
@@ -112,6 +112,32 @@
     </tr>
   </tbody>
 </table>
+
+
+---
+## Blockchain Based Projects (Algokit - Algorand)
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Project Name</th>
+      <th>Repo Link</th>
+      <th>Live Demo</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Algoremit</td>
+      <td><a href="https://github.com/AbdulAHAD968/AlgoRemit">Repo</a></td>
+      <td><a href="https://algoremit.vercel.app/">Live</a></td>
+      <td>Algoremit is a blockchain-powered remittance platform that uses USDCa (USD Coin on Algorand) to facilitate low-cost, instant, and stable money transfers.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
