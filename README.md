@@ -11,7 +11,8 @@ What I’m into right now:
 - [x] Web Development: MERN stack with React + Node.js, building tools that are functional, clean, and secure.
 - [x] Security: Penetration testing, vulnerability assessments, and secure coding practices.
 - [x] Cloud & DevSecOps: Ensuring deployments stay safe and resilient post-launch.
-My goal is simple: create tech that works under pressure - fast, secure, and reliable in the real world.
+
+My goal is simple: create tech that works under pressure - fast, secure, and reliable in the real world (IA).
 
 ---
 
@@ -288,17 +289,24 @@ My goal is simple: create tech that works under pressure - fast, secure, and rel
       <td>FILE-MORPH</td>
       <td><a href="https://github.com/AbdulAHAD968/FILE-MORPH">Repo</a></td>
       <td><a href="https://file-morph-six.vercel.app/">Live</a></td>
-      <td>Effortlessly convert PDF, Word, and PPT files — simple, fast, and secure file converter.</td>
+      <td>Effortlessly convert PDF, Word, and PPT files - simple, fast, and secure file converter.</td>
     </tr>
     <tr>
       <td>6</td>
+      <td>Currency Converter</td>
+      <td><a href="https://github.com/AbdulAHAD968/Currency-Converter">Repo</a></td>
+      <td><a href="https://moneywise-five.vercel.app/">Live</a></td>
+      <td>Currency Converter Pro is a web application built with Next.js and TypeScript, providing real-time currency conversion for over 150 world currencies.</td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>PULSE-WIRE</td>
       <td><a href="https://github.com/AbdulAHAD968/PULSE-WIRE">Repo</a></td>
       <td><a href="https://pulsewire-eight.vercel.app/">Live</a></td>
       <td>News app using The Guardian API for real-time news and customizable feeds.</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>Buena-Comunidad</td>
       <td><a href="https://github.com/AbdulAHAD968/Buena-Comunidad">Repo</a></td>
       <td><a href="https://abdulahad968.github.io/Buena-Comunidad/">Live</a></td>
