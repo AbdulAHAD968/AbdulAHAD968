@@ -164,7 +164,7 @@ My goal is simple: create tech that works under pressure - fast, secure, and rel
 
 
 ---
-## Blockchain Based Projects (Algokit - Algorand)
+## Cybersecurity & Blockchain Projects
 
 <table>
   <thead>
@@ -179,6 +179,13 @@ My goal is simple: create tech that works under pressure - fast, secure, and rel
   <tbody>
     <tr>
       <td>1</td>
+      <td>IAC Using Docker and Python</td>
+      <td><a href="https://github.com/AbdulAHAD968/IAC-Using-Docker-and-Python">Repo</a></td>
+      <td><a href="https://github.com/AbdulAHAD968/IAC-Using-Docker-and-Python">Not Hosted</a></td>
+      <td>A comprehensive Infrastructure as Code (IaC) solution with container orchestration, deployment versioning, security management, and ML-based intrusion detection system (IDS).</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>Algoremit</td>
       <td><a href="https://github.com/AbdulAHAD968/AlgoRemit">Repo</a></td>
       <td><a href="https://algoremit.vercel.app/">Live</a></td>
