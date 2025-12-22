@@ -91,8 +91,40 @@ My goal is simple: create tech that works under pressure - fast, secure, and rel
   <a href="https://johntheripper.net/"><img src="https://img.shields.io/badge/John%20the%20Ripper-333333?style=for-the-badge&logo=lock&logoColor=white" alt="John the Ripper"/></a>
 </p>
 
+---
+
+## Cybersecurity & Blockchain Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Project Name</th>
+      <th>Repo Link</th>
+      <th>Live Demo</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>IAC Using Docker and Python</td>
+      <td><a href="https://github.com/AbdulAHAD968/IAC-Using-Docker-and-Python">Repo</a></td>
+      <td><a href="https://github.com/AbdulAHAD968/IAC-Using-Docker-and-Python">Not Hosted</a></td>
+      <td>A comprehensive Infrastructure as Code (IaC) solution with container orchestration, deployment versioning, security management, and ML-based intrusion detection system (IDS).</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Algoremit</td>
+      <td><a href="https://github.com/AbdulAHAD968/AlgoRemit">Repo</a></td>
+      <td><a href="https://algoremit.vercel.app/">Live</a></td>
+      <td>Algoremit is a blockchain-powered remittance platform that uses USDCa (USD Coin on Algorand) to facilitate low-cost, instant, and stable money transfers.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
+
 # FULL STACK (Vercel-Serverless Deployments)
 
 <table>
@@ -161,39 +193,6 @@ My goal is simple: create tech that works under pressure - fast, secure, and rel
     </tr>
   </tbody>
 </table>
-
-
----
-## Cybersecurity & Blockchain Projects
-
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project Name</th>
-      <th>Repo Link</th>
-      <th>Live Demo</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>IAC Using Docker and Python</td>
-      <td><a href="https://github.com/AbdulAHAD968/IAC-Using-Docker-and-Python">Repo</a></td>
-      <td><a href="https://github.com/AbdulAHAD968/IAC-Using-Docker-and-Python">Not Hosted</a></td>
-      <td>A comprehensive Infrastructure as Code (IaC) solution with container orchestration, deployment versioning, security management, and ML-based intrusion detection system (IDS).</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Algoremit</td>
-      <td><a href="https://github.com/AbdulAHAD968/AlgoRemit">Repo</a></td>
-      <td><a href="https://algoremit.vercel.app/">Live</a></td>
-      <td>Algoremit is a blockchain-powered remittance platform that uses USDCa (USD Coin on Algorand) to facilitate low-cost, instant, and stable money transfers.</td>
-    </tr>
-  </tbody>
-</table>
-
 
 ---
 
