@@ -93,7 +93,7 @@ My goal is simple: create tech that works under pressure - fast, secure, and rel
 
 ---
 
-## Cybersecurity & Blockchain Projects
+# Cybersecurity & Blockchain Projects
 
 <table>
   <thead>
@@ -125,7 +125,7 @@ My goal is simple: create tech that works under pressure - fast, secure, and rel
 
 ---
 
-# FULL STACK (Vercel-Serverless Deployments)
+## FULL STACK (Vercel-Serverless Deployments)
 
 <table>
   <thead>
