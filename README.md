@@ -328,23 +328,7 @@ I'm open to teaming up on:
 - [x] Security-focused or full-stack projects.
 - [x] CTF challenge creation and writeups.
 - [x] Knowledge sharing in ethical hacking, secure coding, or app development.
-
-I value clear communication, consistent delivery, and real problem-solving over buzzwords.
-
----
-
-# GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAHAD968&show_icons=true&theme=radical" alt="Abdul's GitHub Stats" style="width: 68%;"/>
-</div>
-
----
-
-# Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAHAD968&layout=compact&theme=radical" alt="Top Languages" style="width: 58%;"/>
-</div>
+- [x] Freelance work related to Software Development, and AI Web Applications.
 
 ---
 <div align="center">
