@@ -121,12 +121,7 @@ BS Cybersecurity student at FAST-NUCES Islamabad (CGPA 3.64, 4x Dean's List). 50
 # GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulAHAD968&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAHAD968&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAHAD968&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
