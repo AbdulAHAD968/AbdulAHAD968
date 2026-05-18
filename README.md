@@ -1,341 +1,168 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=300&section=header&text=Abdul%20Ahad&desc=AI%20and%20Cyber%20Enthusiast%20|%20Web%20Developer&fontSize=85&animation=fadeIn&fontColor=FFFFFF&descSize=22&fontAlignY=35&descAlignY=55"/>
-</p>
-
----
-
-# Professional Summary
-Hi, I'm Abdul Ahad - an Information Security Engineer passionate about making web applications secure and reliable. I learn best by working on real-world projects, always aiming to improve through both successes and mistakes.
-
-What I’m into right now:
-- [x] Web Development: MERN stack with React + Node.js, building tools that are functional, clean, and secure.
-- [x] Security: Penetration testing, vulnerability assessments, and secure coding practices.
-- [x] Cloud & DevSecOps: Ensuring deployments stay safe and resilient post-launch.
-
-My goal is simple: create tech that works under pressure - fast, secure, and reliable in the real world (IA).
-
----
-
-# Programming Languages and Web Development Tool Kit
-
-<p align="center">
-  
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-
-  <!-- OS / Tools -->
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-
-  <!-- Backend / Database -->
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-
-  <!-- Deployment / DevOps -->
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-
-  <!-- Version Control & Collaboration -->
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
-  <!-- API Testing -->
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
----
-
-# Cybersecurity & Pentesting Tools I Have Used and Learned
-
-<p align="center">
-  <!-- Recon & Scanning -->
-  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/></a>
-  <a href="https://www.tcpdump.org/"><img src="https://img.shields.io/badge/Tcpdump-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="tcpdump"/></a>
-  <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Nmap"/></a>
-  <a href="https://www.kali.org/tools/nikto/"><img src="https://img.shields.io/badge/Nikto-FF0000?style=for-the-badge&logo=apache&logoColor=white" alt="Nikto"/></a>
-  <a href="https://github.com/OJ/gobuster"><img src="https://img.shields.io/badge/Gobuster-FF6F00?style=for-the-badge&logo=go&logoColor=white" alt="Gobuster"/></a>
-  <a href="https://github.com/ffuf/ffuf"><img src="https://img.shields.io/badge/ffuf-333333?style=for-the-badge&logo=go&logoColor=white" alt="ffuf"/></a>
-  <a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/Nessus-006400?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/></a>
-  <a href="https://www.openvas.org/"><img src="https://img.shields.io/badge/OpenVAS-009639?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="OpenVAS"/></a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=300&section=header&text=Abdul%20Ahad&desc=Full%20Stack%20AI%20Engineer%20%7C%20DevSecOps%20%7C%20Cybersecurity&fontSize=80&animation=fadeIn&fontColor=FFFFFF&descSize=22&fontAlignY=35&descAlignY=55"/>
 </p>
 
 <p align="center">
-  <!-- Exploitation & Web Application Testing -->
-  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
-  <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/></a>
-  <a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/></a>
-  <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/></a>
-  <a href="https://sqlmap.org/"><img src="https://img.shields.io/badge/SQLmap-F29111?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLmap"/></a>
-  <a href="https://hydra.run/"><img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Hydra"/></a>
+  <a href="https://linkedin.com/in/abdulahad-zarinc"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://fiverr.com/u_22a2d926963d"><img src="https://img.shields.io/badge/Fiverr-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=AbdulAHAD968&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</p>
+
+---
+
+# About
+
+BS Cybersecurity student at FAST-NUCES Islamabad (CGPA 3.64, 4x Dean's List). 50+ production systems shipped across full stack development, AI engineering, and DevSecOps. Currently contracted at [MedFilo Inc.](https://medfilo.com), [Markhor Systems Limited](https://markhorsystems.com), and [La Opinión de Santiago](https://laopiniondesantiago.com).
+
+---
+
+# Currently Working On
+
+- RAG pipelines and computer vision workflows at Markhor Systems Limited
+- HIPAA-aligned AWS infrastructure at MedFilo Inc. (OraFile platform)
+- CTF Platforms and challenges development (FreeLance)
+
+---
+
+# Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### Frontend & Backend
+<p>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### Cloud & DevSecOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### Cybersecurity
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-0057B8?style=for-the-badge&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+</p>
+
+---
+
+# Projects
+
+### Infrastructure & DevSecOps
+
+| Project | Description | Stack | Link |
+|--------|-------------|-------|------|
+| **Apex VPN** | VPN platform across 500+ nodes, 20+ countries. iOS, Android, Web, Chrome Extension. AES-256, zero-logs, RAM-only servers. | Ansible · DigitalOcean · Vultr · Next.js · Docker · Nginx | [Live](https://apexvpn.tech) |
+| **OraFile - MedFilo Inc.** | HIPAA-oriented dental implant passport platform. AWS Fargate, RDS, KMS, Keycloak, JWT auth. | AWS · Docker · Keycloak · JWT | [Live](https://orafile.com) |
+| **CDN Utility** | Production-grade Cloudinary asset management dashboard. Signed server-side uploads, batch processing, transformation playground, CSP-hardened architecture. | Next.js · TypeScript · Cloudinary · Zustand · Tailwind | [Live](https://cdnutility.vercel.app) · [Repo](https://github.com/AbdulAHAD968/CDN-Utility) |
+
+---
+
+### AI Platforms & SaaS
+
+| Project | Description | Stack | Link |
+|--------|-------------|-------|------|
+| **RecruitMyself** | AI recruitment platform with ATS resume scoring, CV optimization, and job matching. Built for a Dubai-based hiring company. | MERN · LLM integrations · PDF/DOCX export | [Live](https://recruitmyself.com) |
+| **SAIF - Cybernet.ae LMS** | Role-based learning management system for cybernet.ae. Supports public users, learners, group admins, and super admins. OTP auth, JWT sessions, multilingual with RTL, dark/light themes. | Next.js · React · JWT · MongoDB | [Live](https://saif.cybernet.ae) |
+| **Hack The Room** | AI-driven cybersecurity LMS with gamified SQL injection training. RAG-based adaptive hinting system personalised via Big Five profiling and behavioral signals. Supports GPT and local LLaMA backends. | Flask · RAG · LLM · Python | - |
+| **AI Children's Book Generator** | SaaS for generating consistent multi-book children's series. Character visual locking, story canon engine, age-appropriate safety filters, DOCX/PDF/EPUB export. | LLM · Knowledge Graphs · RAG · Next.js | - |
+| **Sentinel.AI** | Enterprise SOC platform with real-time threat monitoring, AI-driven incident analysis, MITRE ATT&CK mapping, and SIEM/EDR data ingestion. | MERN · OpenAI · MongoDB · Next.js | - |
+| **JobFit EU - ATS Resume System** | AI resume optimizer for JobFit EU. LlamaParse extraction, GPT-4 keyword analysis and rewriting. ATS-safe output with measurable outcomes. | LlamaParse · GPT-4 · Next.js | [Live](https://job-fit.net) |
+| **Agentic API Testing Platform** | Enterprise API security testing platform. Agentic AI vulnerability detection, RBAC via Ory, audit logging, OpenAI-powered analysis, rate limiting, and Mongo sanitization. | Node.js · Next.js · OpenAI · Ory · MongoDB | [Repo](https://github.com/AbdulAHAD968/Agentic-AI-Driven-Secure-API-Testing-Analysis-Platform) |
+| **RecyCool Concepts** | Waste collection platform - AI plastic valuation, pickup scheduling, driver tracking, wallet payouts. 1,234+ sacks collected, ₦10.8M paid out, 22.3T CO₂ saved. | MERN · JWT · Image Recognition | [Live](https://recycoolconcepts.com) |
+| **VFP - SkyHarvest** | Vertical farming management platform with IoT sensor ingestion, AI crop monitoring, yield optimisation, and real-time dashboards. | Next.js · Node.js · PostgreSQL · LLM/ML | - |
+
+---
+
+### Web Platforms & E-Commerce
+
+| Project | Description | Stack | Link |
+|--------|-------------|-------|------|
+| **RE/MAX HUB Dubai** | Real estate platform for luxury, off-plan, and investment properties. Lead generation and investor onboarding. | Next.js · TypeScript · Tailwind · Vercel | [Live](https://remaxhubdubai.com) |
+| **ThreadsSave** | Threads video downloader - HD quality, no watermark, no login required. | Next.js · TypeScript | [Live](https://www.threadsvideosaver.com) |
+| **STILO Marketplace** | Sustainable fashion ecommerce - product discovery, seller onboarding, infinite scroll, tax calculations, SEO-optimised. | MERN · Next.js · Tailwind | - |
+| **CTF Hosting Platform** | CTF management platform with secure auth, community code rotation, admin dashboard, and user whitelisting. | MERN · JWT | - |
+| **Nomad Gear** | Camping gear rental platform with AI chatbot, trip-based recommendations, booking flow, and availability management. | Next.js · Node.js · MongoDB · LLM | - |
+| **Pop Playground** | Children's creative studio platform - activity management, gallery, AI chatbot, enrollment, and age-based recommendations. | Next.js · Node.js · MongoDB | - |
+| **Gentleman's Blade** | Barbershop booking platform with real-time availability, conflict resolution, AI appointment assistant, and notification system. | Next.js · Node.js · MongoDB | - |
+| **Florist AI** | Florist ecommerce with AI recommendation engine, order tracking, inventory management, and AI support chatbot. | Next.js · Node.js · MongoDB | - |
+
+---
+
+# Other Repos
+
+[IAC + ML IDS](https://github.com/AbdulAHAD968/IAC-Using-Docker-and-Python) · [AI-SOC-PROTO](https://github.com/AbdulAHAD968/AI-SOC-PROTO) · [Algoremit](https://github.com/AbdulAHAD968/AlgoRemit) · [Network Insight](https://github.com/AbdulAHAD968/NMAP-COMMAND-GENERATOR) · [Rapid Recon](https://github.com/AbdulAHAD968/RUSTSCAN-Command-Generator) · [Directory Scanner](https://github.com/AbdulAHAD968/Gobuster-Command-Generator) · [VLSM Calculator](https://github.com/AbdulAHAD968/VLSM-Calculator) · [BoardHub](https://github.com/AbdulAHAD968/Mini-Trello) · [TypeOn](https://github.com/AbdulAHAD968/Typing-Speed-Tracker) · [PulseWire](https://github.com/AbdulAHAD968/PULSE-WIRE) · [FILE-MORPH](https://github.com/AbdulAHAD968/FILE-MORPH) · [EXPENSE-TRACKER](https://github.com/AbdulAHAD968/EXPENSE-TRACKER) · [QUENCH-THIRST](https://github.com/AbdulAHAD968/QUENCH-THIRST)
+
+---
+
+# GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulAHAD968&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAHAD968&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <a href="https://www.shodan.io/"><img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/></a>
-  <a href="https://www.maltego.com/"><img src="https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logo=maltego&logoColor=white" alt="Maltego"/></a>
-  <a href="https://wazuh.com/"><img src="https://img.shields.io/badge/Wazuh-0057B8?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/></a>
-  <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/></a>
-  <a href="https://www.elastic.co/elastic-stack/"><img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Elastic Stack"/></a>
-</p>
-
-<p align="center">
-  <a href="https://www.aircrack-ng.org/"><img src="https://img.shields.io/badge/Aircrack--ng-111111?style=for-the-badge&logo=wifi&logoColor=white" alt="Aircrack-ng"/></a>
-  <a href="https://hashcat.net/hashcat/"><img src="https://img.shields.io/badge/Hashcat-2D2D2D?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashcat"/></a>
-  <a href="https://johntheripper.net/"><img src="https://img.shields.io/badge/John%20the%20Ripper-333333?style=for-the-badge&logo=lock&logoColor=white" alt="John the Ripper"/></a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAHAD968&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# Cybersecurity & Blockchain Projects
+# Certifications
 
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project Name</th>
-      <th>Repo Link</th>
-      <th>Live Demo</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>IAC Using Docker and Python</td>
-      <td><a href="https://github.com/AbdulAHAD968/IAC-Using-Docker-and-Python">Repo</a></td>
-      <td><a href="https://github.com/AbdulAHAD968/IAC-Using-Docker-and-Python">Not Hosted</a></td>
-      <td>A comprehensive Infrastructure as Code (IaC) solution with container orchestration, deployment versioning, security management, and ML-based intrusion detection system (IDS).</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Algoremit</td>
-      <td><a href="https://github.com/AbdulAHAD968/AlgoRemit">Repo</a></td>
-      <td><a href="https://algoremit.vercel.app/">Live</a></td>
-      <td>Algoremit is a blockchain-powered remittance platform that uses USDCa (USD Coin on Algorand) to facilitate low-cost, instant, and stable money transfers.</td>
-    </tr>
-  </tbody>
-</table>
+- Google Cloud Security
+- IBM Full Stack Developer Professional
+- Google UX Design
+- Google IT Support
+- CWL Certified Red Team Analyst (CRTA)
+- CWL Red Team Infra Dev (CRT-ID)
+- CWL Red Teaming Associate
+- EC-Council Certified in Cybersecurity
+- Hackivisor Certified Penetration Testing Specialist
+- MongoDB Associate Web Developer
+- CISCO Certified Ethical Hacker
+- SASE Expert - Cato Networks
+- Google Foundation of Cyber Security
 
 ---
 
-## FULL STACK (Vercel-Serverless Deployments)
+# Awards
 
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project Name</th>
-      <th>Repo Link</th>
-      <th>Live Demo</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Typing Speed Tracker</td>
-      <td><a href="https://github.com/AbdulAHAD968/Typing-Speed-Tracker">Repo</a></td>
-      <td><a href="https://typeon.vercel.app/" target="_blank">Live</a></td>
-      <td>Typing Speed Tracker is a web application that offers real-time performance tracking, detailed statistics, and user authentication for a personalized experience.</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>BoardHub</td>
-      <td><a href="https://github.com/AbdulAHAD968/Mini-Trello">Repo</a></td>
-      <td><a href="https://boardshub.vercel.app/" target="_blank">Live</a></td>
-      <td>BoardHub is a ready-to-deploy project management application inspired by Kanban boards, designed to help teams organize tasks and collaborate effectively. Built with a serverless architecture and MongoDB.</td>
-    </tr>
-  </tbody>
-</table>
-
-
----
-## FULL STACK (Not Deployed)
-
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project Name</th>
-      <th>Repo Link</th>
-      <th>Live Demo</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>EXPENSE-TRACKER</td>
-      <td><a href="https://github.com/AbdulAHAD968/EXPENSE-TRACKER">Repo</a></td>
-      <td><a href="https://github.com/AbdulAHAD968/EXPENSE-TRACKER">Not Hosted</a></td>
-      <td>Full-stack app to manage expenses with dashboards & analytics. MongoDB, React, Node.js.</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>QUENCH-THIRST</td>
-      <td><a href="https://github.com/AbdulAHAD968/QUENCH-THIRST">Repo</a></td>
-      <td><a href="https://github.com/AbdulAHAD968/QUENCH-THIRST">Not Hosted</a></td>
-      <td>Water delivery management system with real-time tracking, dashboards & user roles.</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Mini-Kanban</td>
-      <td><a href="https://github.com/AbdulAHAD968/Mini-Kanban">Repo</a></td>
-      <td><a href="https://github.com/AbdulAHAD968/Mini-Kanban">Not Hosted</a></td>
-      <td>Mini-Kanban is a lightweight, visually appealing Kanban board application inspired by Trello, designed for efficient project management.</td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-## Cybersecurity Mini Projects
-
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project Name</th>
-      <th>Repo Link</th>
-      <th>Live Demo</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Rapid Recon</td>
-      <td><a href="https://github.com/AbdulAHAD968/RUSTSCAN-Command-Generator">Repo</a></td>
-      <td><a href="https://rustscan.vercel.app/" target="_blank">Live</a></td>
-      <td>The RustScan Command Generator is a web application built with React to simplify the creation of RustScan commands for network scanning.</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Network Insight</td>
-      <td><a href="https://github.com/AbdulAHAD968/NMAP-COMMAND-GENERATOR">Repo</a></td>
-      <td><a href="https://nmap-delta.vercel.app/" target="_blank">Live</a></td>
-      <td>The NMAP Command Generator is a React-based web tool for creating NMAP commands, offering Basic, Advanced, and NSE modes.</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>VLSM-CALCULATOR</td>
-      <td><a href="https://github.com/AbdulAHAD968/VLSM-Calculator">Repo</a></td>
-      <td><a href="https://vlsm-calculator-xi.vercel.app/" target="_blank">Live</a></td>
-      <td>Free online VLSM calculator for network engineers. Calculate subnet masks and IP ranges.</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Directory Scanner</td>
-      <td><a href="https://github.com/AbdulAHAD968/Gobuster-Command-Generator">Repo</a></td>
-      <td><a href="https://gobuster.vercel.app/">Live</a></td>
-      <td>Gobuster Command Generator is a web application designed to simplify the creation of Gobuster commands for directory and virtual host brute-forcing.</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>AI-SOC-PROTO</td>
-      <td><a href="https://github.com/AbdulAHAD968/AI-SOC-PROTO">Repo</a></td>
-      <td><a href="https://soc-shield.vercel.app/">Live</a></td>
-      <td>Threat management prototype with autonomous assistant and ABUSEIP integration.</td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-## My Deployed & Documented Mini Projects
-
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project Name</th>
-      <th>Repo Link</th>
-      <th>Live Demo</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>DUA-VAULT</td>
-      <td><a href="https://github.com/AbdulAHAD968/Masnoon-Dua">Repo</a></td>
-      <td><a href="https://dua-vault.vercel.app/">Live</a></td>
-      <td>A collection of Masnoon Duas in a simple, accessible web interface.</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>QrCode Generator</td>
-      <td><a href="https://github.com/AbdulAHAD968/QRCODE-GENERATOR">Repo</a></td>
-      <td><a href="https://drqr.vercel.app/">Live</a></td>
-      <td>A free and customizable QR Code Generator PWA that lets you create QR codes for URLs, text, WiFi, contacts, and more - no signup required.</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>What-GPA?</td>
-      <td><a href="https://github.com/AbdulAHAD968/What-GPA">Repo</a></td>
-      <td><a href="https://what-gpa.vercel.app/" target="_blank">Live</a></td>
-      <td>Calculate your FAST NUCES semester GPA with precision. Designed specifically for FAST students with support for all campuses and departments.</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>LOCAL-CAFE</td>
-      <td><a href="https://github.com/AbdulAHAD968/LOCAL-CAFE">Repo</a></td>
-      <td><a href="https://chai-mahfil.vercel.app/" target="_blank">Live</a></td>
-      <td>A modern, responsive web app for menu browsing, cart management, and order placement at your local tea house.</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>FILE-MORPH</td>
-      <td><a href="https://github.com/AbdulAHAD968/FILE-MORPH">Repo</a></td>
-      <td><a href="https://file-morph-six.vercel.app/">Live</a></td>
-      <td>Effortlessly convert PDF, Word, and PPT files - simple, fast, and secure file converter.</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Currency Converter</td>
-      <td><a href="https://github.com/AbdulAHAD968/Currency-Converter">Repo</a></td>
-      <td><a href="https://moneywise-five.vercel.app/">Live</a></td>
-      <td>Currency Converter Pro is a web application built with Next.js and TypeScript, providing real-time currency conversion for over 150 world currencies.</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>PULSE-WIRE</td>
-      <td><a href="https://github.com/AbdulAHAD968/PULSE-WIRE">Repo</a></td>
-      <td><a href="https://pulsewire-eight.vercel.app/">Live</a></td>
-      <td>News app using The Guardian API for real-time news and customizable feeds.</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>Buena-Comunidad</td>
-      <td><a href="https://github.com/AbdulAHAD968/Buena-Comunidad">Repo</a></td>
-      <td><a href="https://abdulahad968.github.io/Buena-Comunidad/">Live</a></td>
-      <td>A website to help NU students find NGOs using OSM API. Pure HTML, CSS, JS.</td>
-    </tr>
-  </tbody>
-</table>
+- 4x Dean's List - FAST-NUCES (Spring 2024, Fall 2024, Spring 2025, Fall 2025)
+- Gold Medal - FAST-NUCES Spring 2024
+- Silver Medal - FAST-NUCES Fall 2024
+- FAST ISB & FSM Problem Solving Challenge Winner
 
 ---
 
 # Collaboration
-I'm open to teaming up on:
-- [x] Security-focused or full-stack projects.
-- [x] CTF challenge creation and writeups.
-- [x] Knowledge sharing in ethical hacking, secure coding, or app development.
-- [x] Freelance work related to Software Development, and AI Web Applications.
+
+Open to security-focused or full stack projects, CTF creation and writeups, and freelance work in software development and AI web applications.
 
 ---
-<div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+<img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=110&section=footer"/>
 </p>
