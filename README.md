@@ -2,9 +2,12 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,8&height=300&section=header&text=Abdul%20Ahad&desc=Full%20Stack%20AI%20Engineer%20%7C%20DevSecOps%20%7C%20Cybersecurity&fontSize=80&animation=fadeIn&fontColor=FFFFFF&descSize=22&fontAlignY=35&descAlignY=55"/>
 </p>
 
+
 <p align="center">
   <a href="https://linkedin.com/in/abdulahad-zarinc"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://fiverr.com/u_22a2d926963d"><img src="https://img.shields.io/badge/Fiverr-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+  <a href="mailto:ab.zarinc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://calendly.com/sevenlabsolutions/30min"><img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white"/></a>
+  <a href="https://medium.com/@ab.zarinc"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=AbdulAHAD968&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
