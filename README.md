@@ -8,7 +8,7 @@
   <a href="mailto:ab.zarinc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://calendly.com/sevenlabsolutions/30min"><img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white"/></a>
   <a href="https://medium.com/@ab.zarinc"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=AbdulAHAD968&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=AbdulAHAD968&style=for-the-badge&color=blueviolet" alt="Profile Views"/> -->
 </p>
 
 ---
