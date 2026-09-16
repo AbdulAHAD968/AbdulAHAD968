@@ -15,7 +15,7 @@
 
 # About
 
-BS Cybersecurity student at FAST-NUCES Islamabad (CGPA 3.64, 4x Dean's List). 50+ production systems shipped across full stack development, AI engineering, and DevSecOps. Currently contracted at [MedFilo Inc.](https://medfilo.com), [Markhor Systems Limited](https://markhorsystems.com), and [La Opinión de Santiago](https://laopiniondesantiago.com).
+BS Cybersecurity student at FAST-NUCES Islamabad (CGPA 3.64, 4x Dean's List). 50+ production systems shipped across full stack development, AI engineering, and DevSecOps. Currently contracted at [MedFilo Inc.](https://medfilo.com), and [Markhor Systems Limited](https://markhorsystems.com).
 
 ---
 
